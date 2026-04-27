@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663323.jpg",
+  "store_name": {
+    "value": "HARDWARE SENG KOH",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-04-12",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR Q0",
+      "price": "800.0",
+      "confidence": 0.81
+    }
+  ],
+  "ocr_quality": 0.72
+}

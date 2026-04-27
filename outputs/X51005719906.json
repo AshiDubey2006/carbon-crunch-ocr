@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719906.jpg",
+  "store_name": {
+    "value": "cof fee 28 S/B Zen and",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "105.0",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Saba shioyaki 2omins wazen",
+      "price": "26.0",
+      "confidence": 0.94
+    },
+    {
+      "name": "Unagi don",
+      "price": "28.0",
+      "confidence": 0.92
+    },
+    {
+      "name": "Spicy ASARI Pasta",
+      "price": "19.0",
+      "confidence": 0.86
+    },
+    {
+      "name": "Ebi Mentai Pasta",
+      "price": "22.0",
+      "confidence": 0.9
+    },
+    {
+      "name": "Jasmine Green Tea",
+      "price": "10.0",
+      "confidence": 0.9
+    }
+  ],
+  "ocr_quality": 0.88
+}

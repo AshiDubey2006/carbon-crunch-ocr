@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361950.jpg",
+  "store_name": {
+    "value": "99 SPEED HART",
+    "confidence": 0.66,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-24",
+    "confidence": 0.64,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "2.5",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.64
+}

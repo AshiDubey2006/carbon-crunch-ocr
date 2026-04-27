@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442366.jpg",
+  "store_name": {
+    "value": "Triple Six Point Enterprise 666",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "22.8",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Receipt no REC- Date -- FM",
+      "price": "4.01",
+      "confidence": 0.69
+    },
+    {
+      "name": "Keteo Vs FUJISOOml 1x",
+      "price": "10.0",
+      "confidence": 0.6
+    },
+    {
+      "name": "Apollo cake 1x",
+      "price": "6.8",
+      "confidence": 0.77
+    },
+    {
+      "name": "TG Coated iX",
+      "price": "1.9",
+      "confidence": 0.79
+    },
+    {
+      "name": "Dlscount",
+      "price": "0.3",
+      "confidence": 0.76
+    }
+  ],
+  "ocr_quality": 0.78
+}

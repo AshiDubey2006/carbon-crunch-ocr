@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663307.jpg",
+  "store_name": {
+    "value": "TAMAN SRI RAMPAI,",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-09-02",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "100.0",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// 19AM Dale",
+      "price": "9.21",
+      "confidence": 0.73
+    },
+    {
+      "name": "PCS SR",
+      "price": "14.3",
+      "confidence": 0.9
+    },
+    {
+      "name": "SR BTL",
+      "price": "7.42",
+      "confidence": 0.98
+    },
+    {
+      "name": "SR PCS",
+      "price": "2.33",
+      "confidence": 0.93
+    },
+    {
+      "name": "PCS SR",
+      "price": "5.3",
+      "confidence": 0.9
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.01",
+      "confidence": 0.94
+    }
+  ],
+  "ocr_quality": 0.87
+}

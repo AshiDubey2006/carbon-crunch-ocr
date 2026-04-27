@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X00016469620.jpg",
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2019-12-01",
+    "confidence": 0.45,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "50.0",
+    "confidence": 0.26,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "ROUNDING ADJUSTMEM -RM",
+      "price": "0.02",
+      "confidence": 0.37
+    }
+  ],
+  "ocr_quality": 0.62
+}

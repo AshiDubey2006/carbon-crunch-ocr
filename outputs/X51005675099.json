@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005675099.jpg",
+  "store_name": {
+    "value": "No. 18 & 19, Taman City, Jalan Kuching,",
+    "confidence": 0.49,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-20",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "X SR",
+      "price": "55.0",
+      "confidence": 0.98
+    },
+    {
+      "name": "SR J0 UO",
+      "price": "31.8",
+      "confidence": 0.7
+    },
+    {
+      "name": "X SR",
+      "price": "13.78",
+      "confidence": 0.93
+    },
+    {
+      "name": "X SR",
+      "price": "3.18",
+      "confidence": 1.0
+    },
+    {
+      "name": "X SR",
+      "price": "6.36",
+      "confidence": 0.97
+    }
+  ],
+  "ocr_quality": 0.82
+}

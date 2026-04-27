@@ -1,0 +1,56 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745190.jpg",
+  "store_name": {
+    "value": "FASARAYA BORUNG SUPER SEVEN",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "AM i2-",
+      "price": "11.34",
+      "confidence": 0.56
+    },
+    {
+      "name": "1OKG ISTIMEHA EERAs' GIRI-BIFI",
+      "price": "653.5",
+      "confidence": 0.52
+    },
+    {
+      "name": "ZR FM4Z9 OQOOG",
+      "price": "17.0",
+      "confidence": 0.56
+    },
+    {
+      "name": "ZAPA ' iLI Ikg",
+      "price": "619.5",
+      "confidence": 0.57
+    },
+    {
+      "name": "ZR bijo uuos s",
+      "price": "19.5",
+      "confidence": 0.51
+    },
+    {
+      "name": "DACinG IKG RApAS KARI",
+      "price": "17.2",
+      "confidence": 0.46
+    },
+    {
+      "name": "BUH 3k6 kCK ILI",
+      "price": "7.9",
+      "confidence": 0.71
+    }
+  ],
+  "ocr_quality": 0.57
+}

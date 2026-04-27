@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719855.jpg",
+  "store_name": {
+    "value": "ROCKU YAKINIKU",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-19",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "55.0",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SVC CHG",
+      "price": "15.57",
+      "confidence": 0.62
+    }
+  ],
+  "ocr_quality": 0.8
+}

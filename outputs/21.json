@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/21.jpg",
+  "store_name": {
+    "value": "Dollar TnEe Stores, Inc.",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2014-02-20",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "520.21",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Sup_ otal GZNERAL EXEX",
+      "price": "80.0",
+      "confidence": 0.48
+    },
+    {
+      "name": "Thark You forSropping at Dollar Tree",
+      "price": "61.0",
+      "confidence": 0.65
+    }
+  ],
+  "ocr_quality": 0.49
+}

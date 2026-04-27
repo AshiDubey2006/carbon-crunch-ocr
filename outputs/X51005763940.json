@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005763940.jpg",
+  "store_name": {
+    "value": "Harvey Norman M'sia Paradigm Mall",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-11-02",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "of S6",
+      "price": "3.4",
+      "confidence": 0.79
+    }
+  ],
+  "ocr_quality": 0.78
+}

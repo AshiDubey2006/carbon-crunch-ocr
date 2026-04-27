@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361908.jpg",
+  "store_name": {
+    "value": "TED HENG STATINERY & Buoks",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-15",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "127.2",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Tolal Qty",
+      "price": "120.0",
+      "confidence": 0.73
+    }
+  ],
+  "ocr_quality": 0.82
+}

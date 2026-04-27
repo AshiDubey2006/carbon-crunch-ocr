@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745296.jpg",
+  "store_name": {
+    "value": "SUSHI  MENTAI PANDAN INDAH",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-09-04",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "31.02",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Sushi",
+      "price": "1.8",
+      "confidence": 0.82
+    },
+    {
+      "name": "X SR",
+      "price": "7.2",
+      "confidence": 0.8
+    },
+    {
+      "name": "Sushi",
+      "price": "2.8",
+      "confidence": 0.49
+    },
+    {
+      "name": "1X SR",
+      "price": "1.0",
+      "confidence": 0.95
+    },
+    {
+      "name": "ling Round Adj -",
+      "price": "0.02",
+      "confidence": 0.84
+    },
+    {
+      "name": "6X SR",
+      "price": "1.76",
+      "confidence": 0.68
+    }
+  ],
+  "ocr_quality": 0.77
+}

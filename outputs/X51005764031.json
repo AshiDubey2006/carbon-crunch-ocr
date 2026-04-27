@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005764031.jpg",
+  "store_name": {
+    "value": "Jalan Euro NC _ 1 1",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "LADy CHOICE S TARTAR SAUC",
+      "price": "635.5",
+      "confidence": 0.68
+    },
+    {
+      "name": "FM42OOOOOOO ZR",
+      "price": "2.0",
+      "confidence": 0.78
+    },
+    {
+      "name": "SAYUP RMI Q0",
+      "price": "1.0",
+      "confidence": 0.57
+    },
+    {
+      "name": "FMA2QOUGuo ZR",
+      "price": "3.0",
+      "confidence": 0.52
+    },
+    {
+      "name": "KOBIS MERAH",
+      "price": "1.6",
+      "confidence": 0.53
+    },
+    {
+      "name": "SR 6x -",
+      "price": "2.01",
+      "confidence": 0.63
+    }
+  ],
+  "ocr_quality": 0.67
+}

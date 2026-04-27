@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757248.jpg",
+  "store_name": {
+    "value": "2300 HRS FRI-SAF : It.O HRS",
+    "confidence": 0.6,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "0.01",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Sub-tota",
+      "price": "42.48",
+      "confidence": 0.75
+    },
+    {
+      "name": "Charige Amt Itzun Cuurit",
+      "price": "7.5",
+      "confidence": 0.78
+    }
+  ],
+  "ocr_quality": 0.46
+}

@@ -1,0 +1,71 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806692.jpg",
+  "store_name": {
+    "value": "60 & 62. Jalan Ciku,",
+    "confidence": 0.47,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-18",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "367.3",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Date // PM",
+      "price": "6.08",
+      "confidence": 0.8
+    },
+    {
+      "name": "PC SR",
+      "price": "3.3",
+      "confidence": 0.86
+    },
+    {
+      "name": "Z0OG SR",
+      "price": "3.6",
+      "confidence": 0.77
+    },
+    {
+      "name": "200G SR",
+      "price": "2.5",
+      "confidence": 0.72
+    },
+    {
+      "name": "PC SR",
+      "price": "1.6",
+      "confidence": 0.78
+    },
+    {
+      "name": "PC SR",
+      "price": "8.6",
+      "confidence": 0.97
+    },
+    {
+      "name": "PC SR",
+      "price": "1.0",
+      "confidence": 0.93
+    },
+    {
+      "name": "PC SR",
+      "price": "22.9",
+      "confidence": 0.99
+    },
+    {
+      "name": "PC SR",
+      "price": "36.0",
+      "confidence": 0.84
+    },
+    {
+      "name": "PC SR",
+      "price": "19.9",
+      "confidence": 0.98
+    }
+  ],
+  "ocr_quality": 0.87
+}

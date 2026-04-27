@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005715007.jpg",
+  "store_name": {
+    "value": "Lot No. L3-012, Level 3,",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "PLASTIC TRAY-GLOSS R pcs SR",
+      "price": "8.9",
+      "confidence": 0.95
+    },
+    {
+      "name": "SR KEYCHAIN SCARF STA pcs",
+      "price": "5.9",
+      "confidence": 0.85
+    },
+    {
+      "name": "SR KEYCHAIN KniT SCAR pcS",
+      "price": "3.9",
+      "confidence": 0.68
+    }
+  ],
+  "ocr_quality": 0.78
+}

@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005453801.jpg",
+  "store_name": {
+    "value": "TAIL ORiNG HANDICRAFT",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "102.0",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Dae",
+      "price": "13.01",
+      "confidence": 0.8
+    }
+  ],
+  "ocr_quality": 0.72
+}

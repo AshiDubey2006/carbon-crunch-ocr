@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005676543.jpg",
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2000-09-28",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "73.25",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.85
+}

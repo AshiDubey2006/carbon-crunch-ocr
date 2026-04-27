@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005712017.jpg",
+  "store_name": {
+    "value": "Licensee of, McDonaId's",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "11.1",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Sma Cone",
+      "price": "2.0",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.8
+}

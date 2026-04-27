@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745213.jpg",
+  "store_name": {
+    "value": "MUN KENG ELECTRICAL &",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "3WHTESPRAY SR",
+      "price": "1.0",
+      "confidence": 0.62
+    },
+    {
+      "name": "Teai Arln &3e8",
+      "price": "7.0",
+      "confidence": 0.46
+    },
+    {
+      "name": "Rounding Acjusmen",
+      "price": "0.01",
+      "confidence": 0.79
+    }
+  ],
+  "ocr_quality": 0.52
+}

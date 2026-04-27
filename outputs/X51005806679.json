@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806679.jpg",
+  "store_name": {
+    "value": "129,JALAN TUNH S LEE ,",
+    "confidence": 0.46,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "353.0",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "0j SR",
+      "price": "144.16",
+      "confidence": 0.68
+    },
+    {
+      "name": "Co SR",
+      "price": "6.36",
+      "confidence": 0.88
+    },
+    {
+      "name": "Tolal Qty",
+      "price": "374.18",
+      "confidence": 0.84
+    },
+    {
+      "name": "Rounding",
+      "price": "0.02",
+      "confidence": 1.0
+    },
+    {
+      "name": "0C SR",
+      "price": "21.18",
+      "confidence": 0.82
+    }
+  ],
+  "ocr_quality": 0.75
+}

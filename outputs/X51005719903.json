@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719903.jpg",
+  "store_name": {
+    "value": "formerIy known as",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-11-03",
+    "confidence": 0.6,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "REG - // ORD",
+      "price": "14.31",
+      "confidence": 0.5
+    }
+  ],
+  "ocr_quality": 0.74
+}

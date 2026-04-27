@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442397.jpg",
+  "store_name": {
+    "value": "Triple Six Point Enterprise 886",
+    "confidence": 0.69,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Date -- AM",
+      "price": "9.42",
+      "confidence": 0.67
+    },
+    {
+      "name": "Hey Song 2x",
+      "price": "7.6",
+      "confidence": 0.93
+    }
+  ],
+  "ocr_quality": 0.77
+}

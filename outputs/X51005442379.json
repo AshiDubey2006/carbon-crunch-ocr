@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442379.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "9.2",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Mer",
+      "price": "18.23",
+      "confidence": 0.56
+    },
+    {
+      "name": "SD S",
+      "price": "0.5",
+      "confidence": 0.69
+    },
+    {
+      "name": "'otal Nett",
+      "price": "59.2",
+      "confidence": 0.72
+    }
+  ],
+  "ocr_quality": 0.7
+}

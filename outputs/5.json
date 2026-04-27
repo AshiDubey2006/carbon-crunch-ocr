@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/5.jpg",
+  "store_name": {
+    "value": "WHOLE FOODS",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2020-09-15",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "28.28",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "KTTL",
+      "price": "1.29",
+      "confidence": 0.92
+    },
+    {
+      "name": "BRAIDED BRIOCHE",
+      "price": "6.99",
+      "confidence": 0.82
+    }
+  ],
+  "ocr_quality": 0.87
+}

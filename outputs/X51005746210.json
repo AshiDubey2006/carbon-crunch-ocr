@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005746210.jpg",
+  "store_name": {
+    "value": "Shah Alau Pt17920 Sek UP",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Master XXXXXXXXXXXXOOOO",
+      "price": "145.1",
+      "confidence": 0.85
+    }
+  ],
+  "ocr_quality": 0.72
+}

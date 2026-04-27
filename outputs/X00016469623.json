@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X00016469623.jpg",
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "30.9",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "-X Autu WaSH GAX E4 joou- Ii",
+      "price": "3.11",
+      "confidence": 0.48
+    }
+  ],
+  "ocr_quality": 0.46
+}

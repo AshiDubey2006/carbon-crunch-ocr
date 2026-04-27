@@ -1,0 +1,96 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568855.jpg",
+  "store_name": {
+    "value": "POPULAR Book",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-12-23",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Shoe White SWIol 2s",
+      "price": "4.29",
+      "confidence": 0.52
+    },
+    {
+      "name": "MR TAPE REF WH624R -",
+      "price": "31.99",
+      "confidence": 0.92
+    },
+    {
+      "name": "KIT KAt F PM 17G",
+      "price": "1.35",
+      "confidence": 0.79
+    },
+    {
+      "name": "FC GRIP BPO T BLK PK",
+      "price": "4.2",
+      "confidence": 0.86
+    },
+    {
+      "name": "3M GlueSt ick 7gm ' s",
+      "price": "10.59",
+      "confidence": 0.79
+    },
+    {
+      "name": "STAT-PROMO SPEC AL -",
+      "price": "3.69",
+      "confidence": 0.67
+    },
+    {
+      "name": "PU F/c B/L A4 ' s",
+      "price": "16.99",
+      "confidence": 0.52
+    },
+    {
+      "name": "STAT-PROMO SPECIAL -",
+      "price": "3.89",
+      "confidence": 0.66
+    },
+    {
+      "name": "FC EXM ERS 4S",
+      "price": "3.9",
+      "confidence": 0.74
+    },
+    {
+      "name": "STAT-PROMO SPEC IAL -",
+      "price": "0.91",
+      "confidence": 0.68
+    },
+    {
+      "name": "SUPER BK AKT' SPH M",
+      "price": "9.9",
+      "confidence": 0.74
+    },
+    {
+      "name": "Rev-BTS Pronot ion -",
+      "price": "1.49",
+      "confidence": 0.74
+    },
+    {
+      "name": "SUCCESS SPM ADD MATHS BK",
+      "price": "37.0",
+      "confidence": 0.55
+    },
+    {
+      "name": "Rev-BTS Pronot ion",
+      "price": "7.4",
+      "confidence": 0.59
+    },
+    {
+      "name": "Rev-BTS Pronot ion -",
+      "price": "7.14",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.76
+}

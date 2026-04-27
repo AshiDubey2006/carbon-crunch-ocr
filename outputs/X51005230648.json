@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005230648.jpg",
+  "store_name": {
+    "value": "47, JALAN MERANTI 1, SEK. 3,",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 0.54,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "6.35",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Rounding Adjustment -",
+      "price": "0.01",
+      "confidence": 0.72
+    },
+    {
+      "name": "SR A",
+      "price": "0.36",
+      "confidence": 0.94
+    }
+  ],
+  "ocr_quality": 0.75
+}

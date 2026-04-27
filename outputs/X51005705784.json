@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005705784.jpg",
+  "store_name": {
+    "value": "T 1- (EDAI BUKU NEW ACHEIVERS",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-09-15",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "48.0",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "USER Xr Time",
+      "price": "10.22",
+      "confidence": 0.62
+    }
+  ],
+  "ocr_quality": 0.81
+}

@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005447861.jpg",
+  "store_name": {
+    "value": "Book POPULAR",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "2pc",
+      "price": "9.89",
+      "confidence": 0.76
+    },
+    {
+      "name": "PU EXPANDING FILE-TS",
+      "price": "20.9",
+      "confidence": 0.8
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01",
+      "confidence": 0.98
+    }
+  ],
+  "ocr_quality": 0.78
+}

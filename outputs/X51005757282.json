@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757282.jpg",
+  "store_name": {
+    "value": "TSH ROWER HARDWARE",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-12-09",
+    "confidence": 0.5,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "50.0",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "DRAWER SR",
+      "price": "6.0",
+      "confidence": 0.8
+    },
+    {
+      "name": "AXON GARDEN SR",
+      "price": "18.0",
+      "confidence": 0.79
+    },
+    {
+      "name": "OCAL SEAL WHITE SR",
+      "price": "0.5",
+      "confidence": 0.84
+    },
+    {
+      "name": "SR-",
+      "price": "1.39",
+      "confidence": 0.85
+    }
+  ],
+  "ocr_quality": 0.73
+}

@@ -1,0 +1,96 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568891.jpg",
+  "store_name": {
+    "value": "KON KWA HARDWARE TRADING",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "CB / PM",
+      "price": "3.43",
+      "confidence": 0.56
+    },
+    {
+      "name": "TOWEL ROD SR",
+      "price": "6.0",
+      "confidence": 0.76
+    },
+    {
+      "name": "TOWEL ROD SR",
+      "price": "4.0",
+      "confidence": 0.78
+    },
+    {
+      "name": "TOWEL ROD SR",
+      "price": "20.0",
+      "confidence": 0.79
+    },
+    {
+      "name": "3f4 TOWEL ROD SR",
+      "price": "22.0",
+      "confidence": 0.75
+    },
+    {
+      "name": "25mmX WALL PLuG SR",
+      "price": "3.5",
+      "confidence": 0.63
+    },
+    {
+      "name": "SANDFLEX SAW SR",
+      "price": "4.5",
+      "confidence": 0.88
+    },
+    {
+      "name": "SCREW SR",
+      "price": "7.0",
+      "confidence": 0.9
+    },
+    {
+      "name": "V BRACKET SR",
+      "price": "7.5",
+      "confidence": 0.54
+    },
+    {
+      "name": "SFTEEL ROD SR",
+      "price": "94.8",
+      "confidence": 0.82
+    },
+    {
+      "name": "/ ALUMINUM ROD SR",
+      "price": "5.8",
+      "confidence": 0.75
+    },
+    {
+      "name": "Type Tolal",
+      "price": "277.9",
+      "confidence": 0.87
+    },
+    {
+      "name": "Jiscount",
+      "price": "0.9",
+      "confidence": 0.95
+    },
+    {
+      "name": "SR SR",
+      "price": "15.68",
+      "confidence": 0.85
+    },
+    {
+      "name": "Tolal",
+      "price": "277.0",
+      "confidence": 0.98
+    }
+  ],
+  "ocr_quality": 0.81
+}

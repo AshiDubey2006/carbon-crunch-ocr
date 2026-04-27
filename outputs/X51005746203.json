@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005746203.jpg",
+  "store_name": {
+    "value": "PASARAYA BORONG SUPER SEVEN:",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "ZR 4C212",
+      "price": "43.37",
+      "confidence": 0.77
+    },
+    {
+      "name": "ZR 4C240",
+      "price": "49.42",
+      "confidence": 0.96
+    },
+    {
+      "name": "D21 TENDFRLOIN",
+      "price": "49.66",
+      "confidence": 0.67
+    },
+    {
+      "name": "AYAMAS CHICKEN FRANKFURTER 340G",
+      "price": "4.3",
+      "confidence": 0.66
+    },
+    {
+      "name": "SR 6X",
+      "price": "12.57",
+      "confidence": 0.83
+    }
+  ],
+  "ocr_quality": 0.73
+}

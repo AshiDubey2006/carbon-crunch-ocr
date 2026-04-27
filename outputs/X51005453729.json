@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005453729.jpg",
+  "store_name": {
+    "value": "N0.32 & 33, JALAN SR 1 9 SEKSYEN 9",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "100.0",
+    "confidence": 0.66,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "N & JALAN SR SEKSYEN",
+      "price": "0.32",
+      "confidence": 0.51
+    },
+    {
+      "name": "9Srrrr Durafile H399 SR",
+      "price": "58.3",
+      "confidence": 0.71
+    },
+    {
+      "name": "Metal Nerre Badge Clip SR",
+      "price": "21.2",
+      "confidence": 0.93
+    }
+  ],
+  "ocr_quality": 0.77
+}

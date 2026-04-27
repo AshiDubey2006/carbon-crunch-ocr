@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005444041.jpg",
+  "store_name": {
+    "value": "BLG",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-08-03",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "81.0",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.81
+}

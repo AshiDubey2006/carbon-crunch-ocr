@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442346.jpg",
+  "store_name": {
+    "value": "PERNIAGAAN ZKENG HUI",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-16",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "8.0",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.64
+}

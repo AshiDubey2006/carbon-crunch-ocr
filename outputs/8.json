@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/8.jpg",
+  "store_name": {
+    "value": "#629 Thornton",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "89.13",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "E FF BS",
+      "price": "23.99",
+      "confidence": 0.5
+    },
+    {
+      "name": "E JACKORGSALSA",
+      "price": "2.97",
+      "confidence": 0.92
+    },
+    {
+      "name": "18CT EGGS",
+      "price": "6.29",
+      "confidence": 0.59
+    },
+    {
+      "name": "ECO HALF PAN",
+      "price": "6.49",
+      "confidence": 0.8
+    },
+    {
+      "name": "E CHPD ONION",
+      "price": "3.59",
+      "confidence": 0.8
+    },
+    {
+      "name": "E MonT JACK",
+      "price": "4.45",
+      "confidence": 0.63
+    }
+  ],
+  "ocr_quality": 0.74
+}

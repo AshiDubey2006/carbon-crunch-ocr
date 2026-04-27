@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005712038.jpg",
+  "store_name": {
+    "value": "5-7 , JALAN HAHAGONI 7/1",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-28",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "30.0",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "U 3xi",
+      "price": "24.0",
+      "confidence": 0.74
+    },
+    {
+      "name": "U Ix7",
+      "price": "7.0",
+      "confidence": 0.75
+    },
+    {
+      "name": "Q020323 PKT Ixi",
+      "price": "1.0",
+      "confidence": 0.77
+    },
+    {
+      "name": "PKT Ixl",
+      "price": "1.8",
+      "confidence": 0.59
+    }
+  ],
+  "ocr_quality": 0.75
+}

@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663310.jpg",
+  "store_name": {
+    "value": "LiM SENG THo HARDWARE FRADING",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-09-02",
+    "confidence": 0.66,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "8.4",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// Dal",
+      "price": "10.05",
+      "confidence": 0.56
+    },
+    {
+      "name": "' NOS SR",
+      "price": "0.7",
+      "confidence": 0.64
+    },
+    {
+      "name": "/ SR",
+      "price": "7.92",
+      "confidence": 0.66
+    }
+  ],
+  "ocr_quality": 0.78
+}

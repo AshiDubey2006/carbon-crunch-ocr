@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005301667.jpg",
+  "store_name": {
+    "value": "No:",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-11-20",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "80.0",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "RM UNI RM",
+      "price": "2.25",
+      "confidence": 0.73
+    }
+  ],
+  "ocr_quality": 0.8
+}

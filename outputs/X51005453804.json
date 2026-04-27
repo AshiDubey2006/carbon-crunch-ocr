@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005453804.jpg",
+  "store_name": {
+    "value": "TAMAN SERDANG RAYA",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "12.0",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR A",
+      "price": "11.32",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.73
+}

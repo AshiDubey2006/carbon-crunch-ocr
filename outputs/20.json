@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/20.png",
+  "store_name": {
+    "value": "DOLLAR TREE",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2022-09-17",
+    "confidence": 0.41,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "1.82",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH OOT",
+      "price": "1.0",
+      "confidence": 0.66
+    }
+  ],
+  "ocr_quality": 0.64
+}

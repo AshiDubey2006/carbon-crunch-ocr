@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719873.jpg",
+  "store_name": {
+    "value": "Your order number is",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-21",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "60.0",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Pearl",
+      "price": "1.1",
+      "confidence": 0.93
+    },
+    {
+      "name": "Printedat /",
+      "price": "15.46",
+      "confidence": 0.5
+    }
+  ],
+  "ocr_quality": 0.89
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433518.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampoi 7/4,Kawvasan Peindustian",
+    "confidence": 0.57,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-07",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "50.46",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "18.22",
+      "confidence": 0.72
+    },
+    {
+      "name": "Nett otal",
+      "price": "52.2",
+      "confidence": 0.66
+    }
+  ],
+  "ocr_quality": 0.67
+}

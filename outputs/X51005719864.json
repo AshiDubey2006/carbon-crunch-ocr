@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719864.jpg",
+  "store_name": {
+    "value": "FUN N CHEER (MALURD)",
+    "confidence": 0.6,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-05-01",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "28.11",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Nox0200419363 s/P MAL",
+      "price": "11.44",
+      "confidence": 0.65
+    },
+    {
+      "name": "ADD CST",
+      "price": "1.69",
+      "confidence": 0.7
+    }
+  ],
+  "ocr_quality": 0.77
+}

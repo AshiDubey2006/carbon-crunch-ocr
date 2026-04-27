@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005715456.jpg",
+  "store_name": {
+    "value": "KHE ELECTRICAL TRADING",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "701.76",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "- Rounding",
+      "price": "0.01",
+      "confidence": 0.99
+    }
+  ],
+  "ocr_quality": 0.78
+}

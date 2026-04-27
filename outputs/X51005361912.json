@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361912.jpg",
+  "store_name": {
+    "value": "NO. 59, JALAN BESAR, 45600 BATANG BERJUNTAI",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "1.05",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.87
+}

@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663280.jpg",
+  "store_name": {
+    "value": "Chili s",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "102.4",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "PINEAPPLE JUICE",
+      "price": "12.95",
+      "confidence": 0.8
+    },
+    {
+      "name": "CHIPS toSTAda",
+      "price": "16.95",
+      "confidence": 0.6
+    },
+    {
+      "name": "BWL CK CHP_",
+      "price": "29.95",
+      "confidence": 0.91
+    },
+    {
+      "name": "CK MARG",
+      "price": "27.95",
+      "confidence": 0.97
+    },
+    {
+      "name": "Srv Chg Jo",
+      "price": "8.73",
+      "confidence": 0.59
+    }
+  ],
+  "ocr_quality": 0.77
+}

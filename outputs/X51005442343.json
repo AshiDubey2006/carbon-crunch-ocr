@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442343.jpg",
+  "store_name": {
+    "value": "YONG TAT HARDWARE TRADING",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-13",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "102.0",
+    "confidence": 0.58,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SHTS",
+      "price": "72.0",
+      "confidence": 0.82
+    }
+  ],
+  "ocr_quality": 0.67
+}

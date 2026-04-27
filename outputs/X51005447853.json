@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005447853.jpg",
+  "store_name": {
+    "value": "1317 TRILLIUH SC BESI",
+    "confidence": 0.52,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "X RK",
+      "price": "12.5",
+      "confidence": 0.37
+    },
+    {
+      "name": "X RK",
+      "price": "15.8",
+      "confidence": 0.43
+    },
+    {
+      "name": "CangE R",
+      "price": "8.5",
+      "confidence": 0.51
+    }
+  ],
+  "ocr_quality": 0.43
+}

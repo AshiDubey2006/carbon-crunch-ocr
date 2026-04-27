@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663317.jpg",
+  "store_name": {
+    "value": "Lim SENG THO HARDWARE TRADING",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-12-29",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Payment",
+      "price": "6.0",
+      "confidence": 0.8
+    },
+    {
+      "name": "SR /",
+      "price": "5.66",
+      "confidence": 0.56
+    }
+  ],
+  "ocr_quality": 0.72
+}

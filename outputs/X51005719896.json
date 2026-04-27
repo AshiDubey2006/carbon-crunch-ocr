@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719896.jpg",
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "2.8",
+    "confidence": 0.18,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "ZNXNNI592I",
+      "price": "2.4",
+      "confidence": 0.56
+    }
+  ],
+  "ocr_quality": 0.3
+}

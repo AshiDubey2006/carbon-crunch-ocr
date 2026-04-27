@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005742110.jpg",
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-06-01",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "65.7",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "TIME SALESPERSON",
+      "price": "10.47",
+      "confidence": 0.93
+    },
+    {
+      "name": "ROUNDING -",
+      "price": "0.01",
+      "confidence": 0.99
+    }
+  ],
+  "ocr_quality": 0.85
+}

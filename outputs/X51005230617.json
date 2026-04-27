@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005230617.jpg",
+  "store_name": {
+    "value": "formerIy known as",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "11.0",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "M Porridge",
+      "price": "5.6",
+      "confidence": 0.99
+    },
+    {
+      "name": "BM 2HotCakes",
+      "price": "10.0",
+      "confidence": 0.85
+    }
+  ],
+  "ocr_quality": 0.75
+}

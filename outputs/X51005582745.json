@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005582745.jpg",
+  "store_name": {
+    "value": "CASH",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2016-04-12",
+    "confidence": 0.46,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "141.51",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.64
+}

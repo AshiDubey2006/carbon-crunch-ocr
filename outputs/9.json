@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/9.jpg",
+  "store_name": {
+    "value": "KINGS 18 FS 7056,096902 CHIGREN BLEND Fs",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2014-09-08",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "121.92",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ES EYE RND STEN H",
+      "price": "18.28",
+      "confidence": 0.52
+    },
+    {
+      "name": "BARES MEAT FRNK",
+      "price": "3.88",
+      "confidence": 0.69
+    },
+    {
+      "name": "KRFT DELUXE MAC",
+      "price": "3.64",
+      "confidence": 0.75
+    },
+    {
+      "name": "R WINco SNDwch_WT",
+      "price": "1.98",
+      "confidence": 0.63
+    },
+    {
+      "name": "EGGS",
+      "price": "2.48",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.63
+}

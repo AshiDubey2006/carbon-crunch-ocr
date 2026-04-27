@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005447859.jpg",
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "1.46",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// 44PM",
+      "price": "5.37",
+      "confidence": 0.72
+    }
+  ],
+  "ocr_quality": 0.84
+}

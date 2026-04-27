@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663276.jpg",
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-02-12",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "7.0",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Time USER",
+      "price": "21.0",
+      "confidence": 0.97
+    },
+    {
+      "name": "Itom SR",
+      "price": "7.42",
+      "confidence": 0.62
+    }
+  ],
+  "ocr_quality": 0.82
+}

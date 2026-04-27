@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757235.jpg",
+  "store_name": {
+    "value": "AEON Tahan MALURI SC 3R0 FLR,",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Chanje Amt Item Count",
+      "price": "19.0",
+      "confidence": 0.88
+    },
+    {
+      "name": "SR & 6x",
+      "price": "21.24",
+      "confidence": 0.58
+    },
+    {
+      "name": "Tota",
+      "price": "29.24",
+      "confidence": 0.8
+    }
+  ],
+  "ocr_quality": 0.62
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605335.jpg",
+  "store_name": {
+    "value": "BOOk POPULAR",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-12-01",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "50.0",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "T Zpc",
+      "price": "13.69",
+      "confidence": 0.92
+    },
+    {
+      "name": "Stat-Great Saving",
+      "price": "6.4",
+      "confidence": 0.94
+    }
+  ],
+  "ocr_quality": 0.78
+}

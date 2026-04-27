@@ -1,0 +1,66 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568829.jpg",
+  "store_name": {
+    "value": "THAI DELICIOUS RESTAURANT",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-02-02",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "100.0",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// PM A3 Date",
+      "price": "7.31",
+      "confidence": 0.91
+    },
+    {
+      "name": "06s BRAISED",
+      "price": "20.0",
+      "confidence": 0.71
+    },
+    {
+      "name": "PHRANAKON'",
+      "price": "28.0",
+      "confidence": 0.89
+    },
+    {
+      "name": "GARLIC FRIED",
+      "price": "13.0",
+      "confidence": 0.96
+    },
+    {
+      "name": "TrAI STYLE",
+      "price": "15.0",
+      "confidence": 0.58
+    },
+    {
+      "name": "PLAINRICE",
+      "price": "7.2",
+      "confidence": 0.86
+    },
+    {
+      "name": "C OCONUT",
+      "price": "6.5",
+      "confidence": 0.72
+    },
+    {
+      "name": "DISTILLED G0",
+      "price": "0.6",
+      "confidence": 0.61
+    },
+    {
+      "name": "PAX S AVERAGE",
+      "price": "23.2",
+      "confidence": 0.74
+    }
+  ],
+  "ocr_quality": 0.79
+}

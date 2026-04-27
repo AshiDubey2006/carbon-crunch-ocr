@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005447840.jpg",
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "8.2",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ZRL WALK",
+      "price": "1.6",
+      "confidence": 0.91
+    },
+    {
+      "name": "WALK ZRL",
+      "price": "4.5",
+      "confidence": 0.94
+    },
+    {
+      "name": "WALK ZRL",
+      "price": "0.5",
+      "confidence": 0.88
+    }
+  ],
+  "ocr_quality": 0.86
+}

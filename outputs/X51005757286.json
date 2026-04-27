@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757286.jpg",
+  "store_name": {
+    "value": "TSH POWER HARDWARE",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-10-10",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "8.0",
+    "confidence": 0.75,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// PM Date",
+      "price": "4.22",
+      "confidence": 0.72
+    },
+    {
+      "name": "MAJESTA HSS SR",
+      "price": "4.0",
+      "confidence": 0.88
+    }
+  ],
+  "ocr_quality": 0.87
+}

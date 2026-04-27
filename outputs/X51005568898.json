@@ -1,0 +1,56 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568898.jpg",
+  "store_name": {
+    "value": "14 JALAN MANIS 4 TAMAN SEGAR 56100 KL",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-05-30",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "20.0",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "PKT00 SR",
+      "price": "0.75",
+      "confidence": 0.9
+    },
+    {
+      "name": "PKT0o SR",
+      "price": "8.0",
+      "confidence": 0.72
+    },
+    {
+      "name": "PKT00 SR",
+      "price": "6.0",
+      "confidence": 0.94
+    },
+    {
+      "name": "ROLL00 SR",
+      "price": "3.0",
+      "confidence": 0.89
+    },
+    {
+      "name": "Item Count Item Qty",
+      "price": "5.0",
+      "confidence": 0.8
+    },
+    {
+      "name": "Rounding Adj -",
+      "price": "0.02",
+      "confidence": 0.82
+    },
+    {
+      "name": "SR j0",
+      "price": "1.07",
+      "confidence": 0.81
+    }
+  ],
+  "ocr_quality": 0.84
+}

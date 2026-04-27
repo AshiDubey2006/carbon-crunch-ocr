@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005675095.jpg",
+  "store_name": {
+    "value": "SOLARIS",
+    "confidence": 0.69,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-14",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.66
+}

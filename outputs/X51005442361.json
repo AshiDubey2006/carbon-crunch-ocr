@@ -1,0 +1,56 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442361.jpg",
+  "store_name": {
+    "value": "Morganflelde",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "593.1",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR Ribs Platter",
+      "price": "259.9",
+      "confidence": 0.69
+    },
+    {
+      "name": "SR Full Maughty Spare Rib",
+      "price": "106.9",
+      "confidence": 0.58
+    },
+    {
+      "name": "Slab SR",
+      "price": "13.9",
+      "confidence": 0.89
+    },
+    {
+      "name": "Apple Mojito Sour",
+      "price": "18.9",
+      "confidence": 0.75
+    },
+    {
+      "name": "Aust' Rib-eye Steak",
+      "price": "74.9",
+      "confidence": 0.83
+    },
+    {
+      "name": "Sr Fruity Garden Salad",
+      "price": "21.9",
+      "confidence": 0.7
+    },
+    {
+      "name": "HV Asani /",
+      "price": "77.8",
+      "confidence": 0.73
+    }
+  ],
+  "ocr_quality": 0.68
+}

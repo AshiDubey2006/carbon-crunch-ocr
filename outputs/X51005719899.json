@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719899.jpg",
+  "store_name": {
+    "value": "NYONYA COLORS UTAMA @",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "60.0",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.75
+}

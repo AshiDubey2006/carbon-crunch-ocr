@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005705760.jpg",
+  "store_name": {
+    "value": "MYDIN",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-10-08",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Fotal",
+      "price": "21.4",
+      "confidence": 0.76
+    }
+  ],
+  "ocr_quality": 0.69
+}

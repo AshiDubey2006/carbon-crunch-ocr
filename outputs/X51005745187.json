@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745187.jpg",
+  "store_name": {
+    "value": "SLF CASH & CARRY",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "1.2",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "/ SR",
+      "price": "0.08",
+      "confidence": 0.51
+    },
+    {
+      "name": "Sales",
+      "price": "21.2",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_quality": 0.66
+}

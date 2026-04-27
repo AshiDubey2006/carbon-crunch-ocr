@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719902.jpg",
+  "store_name": {
+    "value": "KING '$ CONFECTIONERY S/B 273500-U (KSB)",
+    "confidence": 0.53,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "KAYA PUFF",
+      "price": "6.4",
+      "confidence": 0.88
+    },
+    {
+      "name": "Slice Cak",
+      "price": "8.7",
+      "confidence": 0.87
+    },
+    {
+      "name": "101I10 Cheese Le",
+      "price": "2.45",
+      "confidence": 0.43
+    },
+    {
+      "name": "Cheese S Ta",
+      "price": "3.4",
+      "confidence": 0.88
+    },
+    {
+      "name": "D/R BUTTE",
+      "price": "4.2",
+      "confidence": 0.76
+    },
+    {
+      "name": "Due",
+      "price": "25.15",
+      "confidence": 0.9
+    }
+  ],
+  "ocr_quality": 0.68
+}

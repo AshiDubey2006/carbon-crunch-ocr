@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005705722.jpg",
+  "store_name": {
+    "value": "NO 31G,JALAN SEPADU C 25/C,",
+    "confidence": 0.52,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-09-27",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "14.04",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Time",
+      "price": "10.51",
+      "confidence": 0.66
+    },
+    {
+      "name": "TOT QTY",
+      "price": "248.04",
+      "confidence": 0.94
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01",
+      "confidence": 0.98
+    }
+  ],
+  "ocr_quality": 0.85
+}

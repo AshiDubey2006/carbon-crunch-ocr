@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005746207.jpg",
+  "store_name": {
+    "value": "Ja lan Euro NO _",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "ZR FM415000303",
+      "price": "2.0",
+      "confidence": 0.82
+    }
+  ],
+  "ocr_quality": 0.74
+}

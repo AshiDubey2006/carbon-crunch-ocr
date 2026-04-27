@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005447852.jpg",
+  "store_name": {
+    "value": "99 SPEED MART S/B (519537-X)",
+    "confidence": 0.6,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-20",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.67
+}

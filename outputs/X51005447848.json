@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005447848.jpg",
+  "store_name": {
+    "value": "LIAN ChI PU TIAN VEGETARIAN",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-06-01",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "// Dale PM",
+      "price": "17.26",
+      "confidence": 0.67
+    },
+    {
+      "name": "Net Amt",
+      "price": "53.55",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_quality": 0.78
+}

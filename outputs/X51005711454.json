@@ -1,0 +1,56 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005711454.jpg",
+  "store_name": {
+    "value": "PappaRi ch BMC",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-24",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "72.93",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "MILO INO I E",
+      "price": "7.45",
+      "confidence": 0.63
+    },
+    {
+      "name": "N2Z SPRG NDL sutcr E S",
+      "price": "9.34",
+      "confidence": 0.83
+    },
+    {
+      "name": "BOZ HALF BL EGG E S",
+      "price": "4.53",
+      "confidence": 0.82
+    },
+    {
+      "name": "CHAM E",
+      "price": "5.57",
+      "confidence": 0.54
+    },
+    {
+      "name": "Srv Chg",
+      "price": "6.25",
+      "confidence": 0.85
+    },
+    {
+      "name": "RND ADJ",
+      "price": "0.02",
+      "confidence": 0.7
+    },
+    {
+      "name": "Payment",
+      "price": "73.0",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_quality": 0.74
+}

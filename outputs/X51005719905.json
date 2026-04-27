@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719905.jpg",
+  "store_name": {
+    "value": "SAINT HEART PASTRY",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "8.2",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "JUMBO SAUSAGE CHEESE SR",
+      "price": "3.1",
+      "confidence": 0.88
+    },
+    {
+      "name": "GARLIC CHEESE SR",
+      "price": "2.0",
+      "confidence": 0.94
+    }
+  ],
+  "ocr_quality": 0.82
+}

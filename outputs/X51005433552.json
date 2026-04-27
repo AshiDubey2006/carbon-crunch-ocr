@@ -1,0 +1,61 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433552.jpg",
+  "store_name": {
+    "value": "JALAN PERMAS UTARA",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "57.8",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "PAX NO Date //",
+      "price": "5.41",
+      "confidence": 0.78
+    },
+    {
+      "name": "SABA SHIQ YAKI SET",
+      "price": "53.7",
+      "confidence": 0.73
+    },
+    {
+      "name": "SALMON SHIO SET Z",
+      "price": "1.9",
+      "confidence": 0.79
+    },
+    {
+      "name": "HCED GREEN TEA",
+      "price": "4.0",
+      "confidence": 0.6
+    },
+    {
+      "name": "SUETO 4L",
+      "price": "70.6",
+      "confidence": 0.39
+    },
+    {
+      "name": "DISCOi MT'",
+      "price": "30.0",
+      "confidence": 0.56
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.03",
+      "confidence": 0.64
+    },
+    {
+      "name": "SR i6i",
+      "price": "3.27",
+      "confidence": 0.67
+    }
+  ],
+  "ocr_quality": 0.54
+}

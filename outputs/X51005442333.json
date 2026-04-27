@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442333.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampci 7/4,Kawasan Perinduslian",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-27",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "56.9",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "18.46",
+      "confidence": 0.73
+    }
+  ],
+  "ocr_quality": 0.7
+}

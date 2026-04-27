@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/18.jpg",
+  "store_name": {
+    "value": "corn Walmart -",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2021-10-31",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "3.6",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "I TRH Hatr",
+      "price": "4.36",
+      "confidence": 0.32
+    },
+    {
+      "name": "Q078/ CKEAT VAI UF",
+      "price": "0.98",
+      "confidence": 0.72
+    },
+    {
+      "name": "/ GRF Ai VA UE",
+      "price": "0.94",
+      "confidence": 0.44
+    }
+  ],
+  "ocr_quality": 0.54
+}

@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806695.jpg",
+  "store_name": {
+    "value": "JUWITA WEDDINGS (366310-U)",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-28",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "4.1",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Receipt Date -Feb- -",
+      "price": "37.04",
+      "confidence": 0.69
+    }
+  ],
+  "ocr_quality": 0.83
+}

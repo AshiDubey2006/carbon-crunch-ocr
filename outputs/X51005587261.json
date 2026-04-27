@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005587261.jpg",
+  "store_name": {
+    "value": "CHOP YEW LIAN",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-03-23",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "1.7",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Pump Itre",
+      "price": "11.54",
+      "confidence": 0.99
+    }
+  ],
+  "ocr_quality": 0.81
+}

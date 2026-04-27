@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005746206.jpg",
+  "store_name": {
+    "value": "JAYA ENTEAPAI SE PANG",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "105.0",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.78
+}

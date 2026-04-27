@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005741929.jpg",
+  "store_name": {
+    "value": "MyMydin Stbang Bestari 2300",
+    "confidence": 0.66,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-15",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "5.5",
+    "confidence": 0.52,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "ling Adjus tient Roucic",
+      "price": "0.4",
+      "confidence": 0.72
+    }
+  ],
+  "ocr_quality": 0.57
+}

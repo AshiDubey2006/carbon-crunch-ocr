@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806718.jpg",
+  "store_name": {
+    "value": "Tota",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-13",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "PKT",
+      "price": "10.38",
+      "confidence": 0.82
+    },
+    {
+      "name": "'Goods",
+      "price": "2.31",
+      "confidence": 0.79
+    }
+  ],
+  "ocr_quality": 0.9
+}

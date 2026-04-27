@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568866.jpg",
+  "store_name": {
+    "value": "POPULAR Book",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2020-08-31",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Sav ings Tota",
+      "price": "0.56",
+      "confidence": 0.69
+    }
+  ],
+  "ocr_quality": 0.71
+}

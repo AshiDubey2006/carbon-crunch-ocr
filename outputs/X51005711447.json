@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005711447.jpg",
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.75,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "2.3",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "X SR",
+      "price": "2.1",
+      "confidence": 0.88
+    },
+    {
+      "name": "6X SR",
+      "price": "0.13",
+      "confidence": 0.88
+    }
+  ],
+  "ocr_quality": 0.82
+}

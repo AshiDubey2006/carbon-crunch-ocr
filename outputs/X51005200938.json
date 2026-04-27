@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005200938.jpg",
+  "store_name": {
+    "value": "Aoxols\"",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "112.46",
+    "confidence": 0.75,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GB T6c",
+      "price": "16.0",
+      "confidence": 0.45
+    },
+    {
+      "name": "Ga C0",
+      "price": "21.03",
+      "confidence": 0.53
+    },
+    {
+      "name": "OB OC",
+      "price": "60.0",
+      "confidence": 0.51
+    },
+    {
+      "name": "Gh 2IC",
+      "price": "0.7",
+      "confidence": 0.58
+    },
+    {
+      "name": "Roundlng RM",
+      "price": "0.02",
+      "confidence": 0.68
+    },
+    {
+      "name": "Tolal",
+      "price": "6.57",
+      "confidence": 0.53
+    }
+  ],
+  "ocr_quality": 0.52
+}

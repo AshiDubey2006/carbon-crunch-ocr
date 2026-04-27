@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005268275.jpg",
+  "store_name": {
+    "value": "LICHTROOM CALLERY",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-11-20",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "RM UN RM",
+      "price": "5.43",
+      "confidence": 0.75
+    },
+    {
+      "name": "RM RM UN",
+      "price": "1.01",
+      "confidence": 0.78
+    }
+  ],
+  "ocr_quality": 0.79
+}

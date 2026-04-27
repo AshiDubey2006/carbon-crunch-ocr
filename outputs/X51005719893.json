@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719893.jpg",
+  "store_name": {
+    "value": "Dakgalbi Slaris Hr",
+    "confidence": 0.69,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-05",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "74.0",
+    "confidence": 0.27,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.76
+}

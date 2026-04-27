@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005441398.jpg",
+  "store_name": {
+    "value": "BREWERY TAP",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-30",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "14.11",
+    "confidence": 0.43,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "FRN ON // PM",
+      "price": "11.18",
+      "confidence": 0.43
+    },
+    {
+      "name": "Tiger Bucket SR HH",
+      "price": "95.09",
+      "confidence": 0.7
+    },
+    {
+      "name": "Chicken wings SR",
+      "price": "22.6",
+      "confidence": 0.7
+    },
+    {
+      "name": "SR French Fries",
+      "price": "12.0",
+      "confidence": 0.77
+    },
+    {
+      "name": "Tiger Bucket- HH SR",
+      "price": "50.0",
+      "confidence": 0.74
+    },
+    {
+      "name": "Subotal",
+      "price": "179.0",
+      "confidence": 0.79
+    }
+  ],
+  "ocr_quality": 0.63
+}

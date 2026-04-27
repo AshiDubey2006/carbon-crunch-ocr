@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568881.jpg",
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "5.4",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "CB / AM",
+      "price": "10.2",
+      "confidence": 0.54
+    },
+    {
+      "name": "PVC WALLPLUG SR",
+      "price": "5.0",
+      "confidence": 0.85
+    },
+    {
+      "name": "SR SR",
+      "price": "0.59",
+      "confidence": 0.83
+    },
+    {
+      "name": "Tolal",
+      "price": "10.4",
+      "confidence": 0.8
+    }
+  ],
+  "ocr_quality": 0.77
+}

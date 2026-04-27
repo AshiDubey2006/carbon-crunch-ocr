@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361898.jpg",
+  "store_name": {
+    "value": "TED HENG STATIDNERY & BQOKS",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-15",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "55.1",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "RoTNDNNG -",
+      "price": "0.02",
+      "confidence": 0.62
+    }
+  ],
+  "ocr_quality": 0.84
+}

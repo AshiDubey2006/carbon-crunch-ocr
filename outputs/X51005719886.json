@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719886.jpg",
+  "store_name": {
+    "value": "SUNFISH",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "28.7",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SALTED F RICE",
+      "price": "6.5",
+      "confidence": 0.91
+    },
+    {
+      "name": "NASI LEMAK Uki x",
+      "price": "9.6",
+      "confidence": 0.52
+    },
+    {
+      "name": "SOYA CINCAU",
+      "price": "4.3",
+      "confidence": 0.9
+    }
+  ],
+  "ocr_quality": 0.77
+}

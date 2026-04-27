@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719882.jpg",
+  "store_name": {
+    "value": "99 SPEED MART S/B (519537-X)",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-17",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "CARLSBERG CAN 320ML RMi",
+      "price": "6.5",
+      "confidence": 0.38
+    },
+    {
+      "name": "CARLSBERG Smooth dRaUg RM",
+      "price": "106.5",
+      "confidence": 0.47
+    }
+  ],
+  "ocr_quality": 0.66
+}

@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005749904.jpg",
+  "store_name": {
+    "value": "28-6, Ground Floor",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-06-03",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "4.0",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "OLS B621-",
+      "price": "2.0",
+      "confidence": 0.65
+    }
+  ],
+  "ocr_quality": 0.78
+}

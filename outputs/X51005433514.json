@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433514.jpg",
+  "store_name": {
+    "value": "12, Jaiah Tampoi 7/4,Kawasan erindustrian",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-03",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "18.22",
+      "confidence": 0.68
+    },
+    {
+      "name": "Neti otai",
+      "price": "58.2",
+      "confidence": 0.46
+    }
+  ],
+  "ocr_quality": 0.67
+}

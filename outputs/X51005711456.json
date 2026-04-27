@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005711456.jpg",
+  "store_name": {
+    "value": "MAHKOTA CHERAS SUSHI MENTAI",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-31",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "65.55",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR 1X",
+      "price": "12.8",
+      "confidence": 0.93
+    },
+    {
+      "name": "SR 1X",
+      "price": "19.8",
+      "confidence": 0.93
+    },
+    {
+      "name": "SR 1X",
+      "price": "8.8",
+      "confidence": 0.97
+    },
+    {
+      "name": "Charge 1OX Serv",
+      "price": "5.62",
+      "confidence": 0.79
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02",
+      "confidence": 0.91
+    }
+  ],
+  "ocr_quality": 0.81
+}

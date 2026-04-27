@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005724625.jpg",
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-12-03",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "283.55",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.83
+}

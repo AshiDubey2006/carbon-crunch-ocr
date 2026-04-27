@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442338.jpg",
+  "store_name": {
+    "value": "JALAN PERMAS SXTU_ 379",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.24,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "28.8",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "VECETABLES",
+      "price": "2.2",
+      "confidence": 0.68
+    },
+    {
+      "name": "PLUS 0S LTK OMEGA",
+      "price": "5.7",
+      "confidence": 0.54
+    },
+    {
+      "name": "6x GSF",
+      "price": "0.47",
+      "confidence": 0.38
+    }
+  ],
+  "ocr_quality": 0.55
+}

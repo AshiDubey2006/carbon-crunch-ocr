@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361946.jpg",
+  "store_name": {
+    "value": "MAR",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "50.0",
+    "confidence": 0.56,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "GS S 6X",
+      "price": "2.1",
+      "confidence": 0.64
+    }
+  ],
+  "ocr_quality": 0.65
+}

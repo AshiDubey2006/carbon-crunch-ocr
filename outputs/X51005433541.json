@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433541.jpg",
+  "store_name": {
+    "value": "12 Jelan Tampoi 7/4,Kawasan erinduslrian",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "58.2",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR-3S",
+      "price": "7.74",
+      "confidence": 0.54
+    }
+  ],
+  "ocr_quality": 0.67
+}

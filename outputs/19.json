@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/19.jpg",
+  "store_name": {
+    "value": "com Walmart",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2021-10-16",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "35.05",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "GRILL COVER '",
+      "price": "14.97",
+      "confidence": 0.78
+    },
+    {
+      "name": "FIBER CHOICE",
+      "price": "12.94",
+      "confidence": 0.85
+    },
+    {
+      "name": "N 000000004023KF RED GRAPE",
+      "price": "2.48",
+      "confidence": 0.95
+    },
+    {
+      "name": "Ib / Ib",
+      "price": "34.68",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.78
+}

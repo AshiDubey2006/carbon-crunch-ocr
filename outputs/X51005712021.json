@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005712021.jpg",
+  "store_name": {
+    "value": "HAPPY SNACKS ENTERPRISE",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "// PM Date",
+      "price": "1.11",
+      "confidence": 0.85
+    },
+    {
+      "name": "SK T",
+      "price": "4.31",
+      "confidence": 0.65
+    },
+    {
+      "name": "Totai",
+      "price": "26.82",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.82
+}

@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005441401.jpg",
+  "store_name": {
+    "value": "HREE STOOGES",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-12-03",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "343.95",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "HH TIGER GLASSES",
+      "price": "145.0",
+      "confidence": 0.72
+    },
+    {
+      "name": "ROUNdinG ADJ",
+      "price": "0.02",
+      "confidence": 0.42
+    },
+    {
+      "name": "SR GS i ax",
+      "price": "324.5",
+      "confidence": 0.66
+    }
+  ],
+  "ocr_quality": 0.66
+}

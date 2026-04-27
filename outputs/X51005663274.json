@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663274.jpg",
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-08-02",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "50.0",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// Date",
+      "price": "12.42",
+      "confidence": 0.61
+    },
+    {
+      "name": "NOS SR",
+      "price": "15.0",
+      "confidence": 0.83
+    },
+    {
+      "name": "Payment",
+      "price": "10.5",
+      "confidence": 0.88
+    }
+  ],
+  "ocr_quality": 0.86
+}

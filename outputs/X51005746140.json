@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005746140.jpg",
+  "store_name": {
+    "value": "cf1",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "63.35",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "TIME SALESPERSON",
+      "price": "9.43",
+      "confidence": 1.0
+    }
+  ],
+  "ocr_quality": 0.88
+}

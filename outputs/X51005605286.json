@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605286.jpg",
+  "store_name": {
+    "value": "3RD FLR, AEON TAMAN MALURI SC",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-09-02",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "5.9",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR 6X",
+      "price": "0.33",
+      "confidence": 0.75
+    },
+    {
+      "name": "Tota",
+      "price": "5.57",
+      "confidence": 0.83
+    }
+  ],
+  "ocr_quality": 0.73
+}

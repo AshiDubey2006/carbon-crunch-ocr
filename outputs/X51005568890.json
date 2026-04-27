@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568890.jpg",
+  "store_name": {
+    "value": "HON KWA HARDWARE TRADING",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "CB PM",
+      "price": "665.49",
+      "confidence": 0.58
+    },
+    {
+      "name": "SR SR",
+      "price": "4.72",
+      "confidence": 0.72
+    },
+    {
+      "name": "Tolal SUD",
+      "price": "0.28",
+      "confidence": 0.61
+    }
+  ],
+  "ocr_quality": 0.63
+}

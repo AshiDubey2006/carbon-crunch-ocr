@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719914.jpg",
+  "store_name": {
+    "value": "43300 SERI KEMBANGAM SELANGOR",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-16",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "53.3",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.66
+}

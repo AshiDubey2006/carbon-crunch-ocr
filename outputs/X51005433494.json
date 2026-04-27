@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433494.jpg",
+  "store_name": {
+    "value": "FRI-Si] : Icn IRS 2300 IRS",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "75.0",
+    "confidence": 0.37,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Charge Ant Iter Count",
+      "price": "25.0",
+      "confidence": 0.53
+    },
+    {
+      "name": "Tota",
+      "price": "70.75",
+      "confidence": 0.74
+    },
+    {
+      "name": "10j0 00RO49B Q6//",
+      "price": "20.01",
+      "confidence": 0.4
+    }
+  ],
+  "ocr_quality": 0.41
+}

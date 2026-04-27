@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005742068.jpg",
+  "store_name": {
+    "value": "BHFetro] Pa lekbang",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-24",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "6.0",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.85
+}

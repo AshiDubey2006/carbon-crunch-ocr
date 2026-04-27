@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806716.jpg",
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "7.0",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.83
+}

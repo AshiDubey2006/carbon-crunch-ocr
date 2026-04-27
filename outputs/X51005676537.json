@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005676537.jpg",
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "89.0",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR _4",
+      "price": "4.24",
+      "confidence": 0.74
+    }
+  ],
+  "ocr_quality": 0.82
+}

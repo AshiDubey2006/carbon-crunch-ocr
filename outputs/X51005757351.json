@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757351.jpg",
+  "store_name": {
+    "value": "Kawasan PERINDUSTRIAN BALAKONG",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-24",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "0.84",
+    "confidence": 0.6,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.74
+}

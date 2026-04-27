@@ -1,0 +1,66 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663297.jpg",
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "599.43",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "' Stt",
+      "price": "159.0",
+      "confidence": 0.64
+    },
+    {
+      "name": "Q0 SR",
+      "price": "160.6",
+      "confidence": 0.79
+    },
+    {
+      "name": "A100o OO Sr",
+      "price": "101.76",
+      "confidence": 0.47
+    },
+    {
+      "name": "Sk 0u",
+      "price": "3.18",
+      "confidence": 0.72
+    },
+    {
+      "name": "C0 SR",
+      "price": "6.36",
+      "confidence": 0.87
+    },
+    {
+      "name": "9u SR",
+      "price": "7.31",
+      "confidence": 0.78
+    },
+    {
+      "name": "1u SR",
+      "price": "106.0",
+      "confidence": 0.77
+    },
+    {
+      "name": "otal SST",
+      "price": "33.93",
+      "confidence": 0.75
+    },
+    {
+      "name": "Rouridirig",
+      "price": "0.02",
+      "confidence": 0.84
+    }
+  ],
+  "ocr_quality": 0.73
+}

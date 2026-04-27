@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361883.jpg",
+  "store_name": {
+    "value": "TEQ HENG STATIONERY",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "4.9",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ROUNDNNG",
+      "price": "0.02",
+      "confidence": 0.93
+    }
+  ],
+  "ocr_quality": 0.85
+}

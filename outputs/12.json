@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/12.jpg",
+  "store_name": {
+    "value": "WAL*MART",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2007-10-20",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "0.54",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "STI OP",
+      "price": "6.63",
+      "confidence": 0.48
+    },
+    {
+      "name": "Toothbrush",
+      "price": "0.96",
+      "confidence": 0.74
+    },
+    {
+      "name": "SUBTOLAL",
+      "price": "7.59",
+      "confidence": 0.54
+    },
+    {
+      "name": "Vohen SLIPPE -",
+      "price": "9.86",
+      "confidence": 0.89
+    },
+    {
+      "name": "TovAL",
+      "price": "18.75",
+      "confidence": 0.65
+    }
+  ],
+  "ocr_quality": 0.56
+}

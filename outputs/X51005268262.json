@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005268262.jpg",
+  "store_name": {
+    "value": "ELECTRICAL",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "50.0",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Date /",
+      "price": "14.03",
+      "confidence": 0.81
+    },
+    {
+      "name": "Subtoia",
+      "price": "15.9",
+      "confidence": 0.71
+    }
+  ],
+  "ocr_quality": 0.65
+}

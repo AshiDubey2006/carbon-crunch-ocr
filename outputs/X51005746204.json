@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005746204.jpg",
+  "store_name": {
+    "value": "sibaig Perdaia,",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "308.7",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.75
+}

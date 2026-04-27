@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005763958.jpg",
+  "store_name": {
+    "value": "PASARAYA EORONG SUPER SEVEN",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-27",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "KK KACANCCORENG 300G",
+      "price": "5.9",
+      "confidence": 0.54
+    },
+    {
+      "name": "SR 6X",
+      "price": "3.34",
+      "confidence": 0.83
+    }
+  ],
+  "ocr_quality": 0.73
+}

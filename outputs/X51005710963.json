@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005710963.jpg",
+  "store_name": {
+    "value": "JALAN BANDAR SATU, 59",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.46,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "40.0",
+    "confidence": 0.75,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "QQ SR",
+      "price": "0.42",
+      "confidence": 0.89
+    }
+  ],
+  "ocr_quality": 0.68
+}

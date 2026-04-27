@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/7.jpg",
+  "store_name": {
+    "value": "to win $1000",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-11-13",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "23.19",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "WING PLATE",
+      "price": "3.98",
+      "confidence": 0.73
+    },
+    {
+      "name": "ASST",
+      "price": "4.88",
+      "confidence": 0.86
+    },
+    {
+      "name": "CUTIE CAR",
+      "price": "12.88",
+      "confidence": 0.97
+    }
+  ],
+  "ocr_quality": 0.77
+}

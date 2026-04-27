@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442341.jpg",
+  "store_name": {
+    "value": "RESTAURANT",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-09-03",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "DPT RH",
+      "price": "21.0",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.61
+}

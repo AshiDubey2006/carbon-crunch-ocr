@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568914.jpg",
+  "store_name": {
+    "value": "IKEA Chieras",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-09-08",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "pc SRM",
+      "price": "9.8",
+      "confidence": 0.82
+    }
+  ],
+  "ocr_quality": 0.76
+}

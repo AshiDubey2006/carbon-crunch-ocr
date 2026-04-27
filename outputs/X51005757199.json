@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757199.jpg",
+  "store_name": {
+    "value": "BOok POPULAR",
+    "confidence": 0.56,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "ENV4 T",
+      "price": "1.9",
+      "confidence": 0.79
+    }
+  ],
+  "ocr_quality": 0.66
+}

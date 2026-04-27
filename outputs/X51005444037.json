@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005444037.jpg",
+  "store_name": {
+    "value": "Nandos:",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-28",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "129.3",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "DELIVERY CHG",
+      "price": "4.0",
+      "confidence": 0.85
+    },
+    {
+      "name": "/ ChictIsd-T S",
+      "price": "71.6",
+      "confidence": 0.63
+    },
+    {
+      "name": "/ ChictIsd-T S",
+      "price": "53.7",
+      "confidence": 0.81
+    }
+  ],
+  "ocr_quality": 0.75
+}

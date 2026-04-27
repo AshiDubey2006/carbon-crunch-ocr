@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005230621.jpg",
+  "store_name": {
+    "value": "LaT 13, JALAN IPOH;",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-05-02",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Sublotal",
+      "price": "7.3",
+      "confidence": 0.7
+    },
+    {
+      "name": "Tura' Saks Eniuuiny G57",
+      "price": "6.69",
+      "confidence": 0.52
+    }
+  ],
+  "ocr_quality": 0.62
+}

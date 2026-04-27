@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719857.jpg",
+  "store_name": {
+    "value": "Salon Du Chocolat",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-19",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "80.0",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Date --",
+      "price": "19.38",
+      "confidence": 0.77
+    },
+    {
+      "name": "Charge 1OX Serv",
+      "price": "2.04",
+      "confidence": 0.74
+    },
+    {
+      "name": "ing Round- Adj",
+      "price": "0.01",
+      "confidence": 0.71
+    }
+  ],
+  "ocr_quality": 0.79
+}

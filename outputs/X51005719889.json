@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719889.jpg",
+  "store_name": {
+    "value": "DELIGHT S HENG KEE RAK KUT TEH",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.83
+}

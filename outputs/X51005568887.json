@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568887.jpg",
+  "store_name": {
+    "value": "KON KWA KARDWARE TRADING",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "7.2",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR ALUMINIUM ROD",
+      "price": "6.0",
+      "confidence": 0.83
+    }
+  ],
+  "ocr_quality": 0.72
+}

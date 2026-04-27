@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005763999.jpg",
+  "store_name": {
+    "value": "Segi Cash 8",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-06",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "x Disc",
+      "price": "1.6",
+      "confidence": 0.78
+    }
+  ],
+  "ocr_quality": 0.68
+}

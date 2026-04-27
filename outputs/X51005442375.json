@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442375.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampoj 7/4,Kawasan Perinduskian",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "38.5",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Nett Tolal",
+      "price": "98.5",
+      "confidence": 0.76
+    }
+  ],
+  "ocr_quality": 0.66
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005230659.jpg",
+  "store_name": {
+    "value": "Jalan Mahagoni 7/1, 5-7, NO.",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-08-01",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "10.0",
+    "confidence": 0.69,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Zox3o 1KG 0Q",
+      "price": "8.0",
+      "confidence": 0.62
+    },
+    {
+      "name": "Ladieded Bu Tatel",
+      "price": "0.45",
+      "confidence": 0.55
+    }
+  ],
+  "ocr_quality": 0.86
+}

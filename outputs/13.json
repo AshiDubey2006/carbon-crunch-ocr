@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/13.jpg",
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Tota",
+      "price": "50.6",
+      "confidence": 0.49
+    }
+  ],
+  "ocr_quality": 0.29
+}

@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433556.jpg",
+  "store_name": {
+    "value": "MHM Aeon Tebrau City",
+    "confidence": 0.5,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-11-03",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "49.7",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Order Io // PX",
+      "price": "7.03",
+      "confidence": 0.57
+    },
+    {
+      "name": "FG- SR",
+      "price": "1.5",
+      "confidence": 0.84
+    },
+    {
+      "name": "FG-Yoj03 SR",
+      "price": "12.8",
+      "confidence": 0.69
+    },
+    {
+      "name": "FG-VCOIB3",
+      "price": "15.8",
+      "confidence": 0.57
+    },
+    {
+      "name": "FG-V0010z",
+      "price": "3.8",
+      "confidence": 0.67
+    },
+    {
+      "name": "SR E0",
+      "price": "46.9",
+      "confidence": 0.5
+    }
+  ],
+  "ocr_quality": 0.68
+}

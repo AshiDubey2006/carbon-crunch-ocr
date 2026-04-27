@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806719.jpg",
+  "store_name": {
+    "value": "POSTED",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "59.43",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Kito1 0U Sk",
+      "price": "19.81",
+      "confidence": 0.76
+    }
+  ],
+  "ocr_quality": 0.76
+}

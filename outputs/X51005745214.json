@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745214.jpg",
+  "store_name": {
+    "value": "41150 KLANG, SELANGOR",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-07-02",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "45.34",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.65
+}

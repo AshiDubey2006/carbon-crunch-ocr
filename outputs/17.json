@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/17.jpg",
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-01-16",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "40.68",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Ib /",
+      "price": "0.54",
+      "confidence": 0.53
+    },
+    {
+      "name": "Sh NYLONCOL",
+      "price": "2.97",
+      "confidence": 0.62
+    }
+  ],
+  "ocr_quality": 0.61
+}

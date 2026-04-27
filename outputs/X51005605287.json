@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605287.jpg",
+  "store_name": {
+    "value": "AEON TAMAN  MALURI SC 3RD FLR,",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "11.55",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Sub-tota",
+      "price": "12.25",
+      "confidence": 0.88
+    },
+    {
+      "name": "Chiarige Amt Item Cimt",
+      "price": "37.75",
+      "confidence": 0.68
+    }
+  ],
+  "ocr_quality": 0.67
+}

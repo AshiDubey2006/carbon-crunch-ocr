@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745298.jpg",
+  "store_name": {
+    "value": "'2811, JALAN ANBSA, Lot PT.",
+    "confidence": 0.6,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-31",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "PLUS CAN 3251L ICE RM",
+      "price": "1.49",
+      "confidence": 0.33
+    },
+    {
+      "name": "HaLTA can 3ZOhL Rm ICE",
+      "price": "2.5",
+      "confidence": 0.51
+    },
+    {
+      "name": "Rounding RH",
+      "price": "4.0",
+      "confidence": 0.91
+    }
+  ],
+  "ocr_quality": 0.66
+}

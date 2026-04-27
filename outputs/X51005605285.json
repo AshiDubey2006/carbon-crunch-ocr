@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605285.jpg",
+  "store_name": {
+    "value": "FLOOR, AEON  TAMAN  MALURI SC",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "5.9",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR 6x",
+      "price": "0.33",
+      "confidence": 0.85
+    }
+  ],
+  "ocr_quality": 0.77
+}

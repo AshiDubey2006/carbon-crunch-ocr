@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361895.jpg",
+  "store_name": {
+    "value": "FUYI MINI MARKET",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-25",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "9.0",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// 56PM",
+      "price": "1.22",
+      "confidence": 0.63
+    },
+    {
+      "name": "KOTAI uO SR",
+      "price": "8.49",
+      "confidence": 0.7
+    }
+  ],
+  "ocr_quality": 0.85
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X00016469619.jpg",
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-10-19",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "60.31",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "DISC -",
+      "price": "5.59",
+      "confidence": 0.31
+    },
+    {
+      "name": "RQUNDING AdJ",
+      "price": "0.04",
+      "confidence": 0.49
+    }
+  ],
+  "ocr_quality": 0.61
+}

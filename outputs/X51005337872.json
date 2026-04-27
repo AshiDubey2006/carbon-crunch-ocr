@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005337872.jpg",
+  "store_name": {
+    "value": "Rsk",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-08-03",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "VGA SOUR & SPICY",
+      "price": "12.0",
+      "confidence": 0.72
+    },
+    {
+      "name": "Ros ROAST PORK",
+      "price": "11.9",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.8
+}

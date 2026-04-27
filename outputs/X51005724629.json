@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005724629.jpg",
+  "store_name": {
+    "value": "Cele R",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "174.9",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.82
+}

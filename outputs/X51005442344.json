@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442344.jpg",
+  "store_name": {
+    "value": "NO4,JALAN PERJIRANAN 10,",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-13",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "700.88",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "No_ Joc Time",
+      "price": "12.49",
+      "confidence": 0.78
+    },
+    {
+      "name": "0Q Q0 PCS",
+      "price": "50.88",
+      "confidence": 0.89
+    },
+    {
+      "name": "SET",
+      "price": "1.0",
+      "confidence": 0.77
+    }
+  ],
+  "ocr_quality": 0.66
+}

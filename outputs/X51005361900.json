@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361900.jpg",
+  "store_name": {
+    "value": "No; 53, JALAN BESAR, 45600 BATANG BERJUNTAI",
+    "confidence": 0.54,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-23",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "18.0",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "TP-",
+      "price": "6.6",
+      "confidence": 0.92
+    }
+  ],
+  "ocr_quality": 0.85
+}

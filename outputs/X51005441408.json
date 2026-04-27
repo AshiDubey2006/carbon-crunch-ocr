@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005441408.jpg",
+  "store_name": {
+    "value": "32 PUB 8 BISTRO own by CNU TRADING",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "190.0",
+    "confidence": 0.56,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.71
+}

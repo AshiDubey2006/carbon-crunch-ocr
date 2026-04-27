@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605334.jpg",
+  "store_name": {
+    "value": "POPULAR BOOk",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-29",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.84
+}

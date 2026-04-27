@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/2.jpg",
+  "store_name": {
+    "value": "Give us feedback survey .walmart com Thark",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2020-10-18",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "49.9",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "X M ATHLETICS",
+      "price": "24.97",
+      "confidence": 0.9
+    },
+    {
+      "name": "DEXAS",
+      "price": "12.97",
+      "confidence": 0.85
+    },
+    {
+      "name": "TERMINAL SC011004 //",
+      "price": "11.3",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.77
+}

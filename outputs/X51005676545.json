@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005676545.jpg",
+  "store_name": {
+    "value": "SYARIKAT PERNIACAAN GIN KEE",
+    "confidence": 0.92,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-13",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "6.0",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Time USER Casnier",
+      "price": "53.0",
+      "confidence": 0.96
+    }
+  ],
+  "ocr_quality": 0.83
+}

@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568911.jpg",
+  "store_name": {
+    "value": "CO-REG:750441-W",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-08-03",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.75
+}

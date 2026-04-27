@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005717526.jpg",
+  "store_name": {
+    "value": "formerIy known as",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "11.1",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "6Muggets",
+      "price": "7.5",
+      "confidence": 0.87
+    },
+    {
+      "name": "AyamGoreng TA",
+      "price": "9.9",
+      "confidence": 0.87
+    }
+  ],
+  "ocr_quality": 0.75
+}

@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005365179.jpg",
+  "store_name": {
+    "value": "JALAN PBS 14/11 NO.5O",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "21.2",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Date -- PM",
+      "price": "5.23",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.89
+}

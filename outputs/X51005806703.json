@@ -1,0 +1,56 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806703.jpg",
+  "store_name": {
+    "value": "Cash Saie",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-06-02",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "109.7",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "// PM Date",
+      "price": "9.46",
+      "confidence": 0.67
+    },
+    {
+      "name": "UNIT SR 0O",
+      "price": "4.8",
+      "confidence": 0.78
+    },
+    {
+      "name": "PLASTI BOWL",
+      "price": "2.8",
+      "confidence": 0.77
+    },
+    {
+      "name": "SR INIT NO",
+      "price": "22.4",
+      "confidence": 0.81
+    },
+    {
+      "name": "UNIT 0o SR",
+      "price": "9.0",
+      "confidence": 0.82
+    },
+    {
+      "name": "UNIT SR",
+      "price": "10.0",
+      "confidence": 0.93
+    },
+    {
+      "name": "SR UNIT",
+      "price": "53.9",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.84
+}

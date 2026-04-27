@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005749895.jpg",
+  "store_name": {
+    "value": "43 300   SER [ K :m3anGAN_ SELANGOR",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "722.0",
+    "confidence": 0.44,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.68
+}

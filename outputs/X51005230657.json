@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005230657.jpg",
+  "store_name": {
+    "value": "47, JALAN MERANTI 1, SEK: 3,",
+    "confidence": 0.56,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-12-31",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "7.95",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "OMM HERO PVC CONDUIT PIPE SR",
+      "price": "1.8",
+      "confidence": 0.84
+    },
+    {
+      "name": "15A PVC CONNE TOR SH",
+      "price": "1.91",
+      "confidence": 0.73
+    },
+    {
+      "name": "X A1 PVC NUT BOX Sk",
+      "price": "0.53",
+      "confidence": 0.72
+    },
+    {
+      "name": "Tolal Qy ander",
+      "price": "4.0",
+      "confidence": 0.58
+    },
+    {
+      "name": "SR A",
+      "price": "0.45",
+      "confidence": 0.93
+    },
+    {
+      "name": "// AM",
+      "price": "10.33",
+      "confidence": 0.76
+    }
+  ],
+  "ocr_quality": 0.78
+}

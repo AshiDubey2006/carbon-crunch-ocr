@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005453802.jpg",
+  "store_name": {
+    "value": "TAMAN SERDANG RAYA",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "9.0",
+    "confidence": 0.75,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Duratile x 95nir SR",
+      "price": "116.6",
+      "confidence": 0.8
+    },
+    {
+      "name": "Tolal Amt Payable",
+      "price": "159.0",
+      "confidence": 0.82
+    }
+  ],
+  "ocr_quality": 0.76
+}

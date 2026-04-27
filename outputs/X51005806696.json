@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806696.jpg",
+  "store_name": {
+    "value": "No. 1ZA-G, Jalan Wangsa Delima 11,",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "10.0",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "/ CB",
+      "price": "7.44",
+      "confidence": 0.81
+    },
+    {
+      "name": "SR COLOR COPY",
+      "price": "2.0",
+      "confidence": 0.82
+    },
+    {
+      "name": "SR PHOTOCOPY A4",
+      "price": "0.1",
+      "confidence": 0.97
+    },
+    {
+      "name": "SR LAMINATE A4",
+      "price": "5.0",
+      "confidence": 0.98
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02",
+      "confidence": 0.72
+    }
+  ],
+  "ocr_quality": 0.85
+}

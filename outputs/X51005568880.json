@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568880.jpg",
+  "store_name": {
+    "value": "KawaSAN PERINDUSTRIAN BalakonG",
+    "confidence": 0.57,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-09-19",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "15.9",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.77
+}

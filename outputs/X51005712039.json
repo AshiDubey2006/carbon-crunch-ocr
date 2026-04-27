@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005712039.jpg",
+  "store_name": {
+    "value": "L TWO FLORIST & HANDICRAFT",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2000-11-01",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "20.0",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SALESPERSON TIME",
+      "price": "11.01",
+      "confidence": 0.99
+    },
+    {
+      "name": "NE3555",
+      "price": "2.0",
+      "confidence": 0.77
+    },
+    {
+      "name": "SBI01-",
+      "price": "7.0",
+      "confidence": 0.8
+    }
+  ],
+  "ocr_quality": 0.85
+}

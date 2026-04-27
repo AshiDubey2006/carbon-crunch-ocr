@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/0.jpg",
+  "store_name": {
+    "value": "WAL-MART",
+    "confidence": 0.57,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "88.0",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Ib Ib /",
+      "price": "0.2",
+      "confidence": 0.86
+    }
+  ],
+  "ocr_quality": 0.76
+}

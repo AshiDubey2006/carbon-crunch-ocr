@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005441407.jpg",
+  "store_name": {
+    "value": "Geoventure",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "15.0",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Date /",
+      "price": "22.52",
+      "confidence": 0.48
+    }
+  ],
+  "ocr_quality": 0.78
+}

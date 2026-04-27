@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719883.jpg",
+  "store_name": {
+    "value": "Lot P.t. 2811, JALAN ANGSA;",
+    "confidence": 0.47,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-17",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.62
+}

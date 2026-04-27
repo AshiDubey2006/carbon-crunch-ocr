@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663298.jpg",
+  "store_name": {
+    "value": "406-107 LEVEL THE MINES MALL SERDANG",
+    "confidence": 0.76,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "48.15",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SR 1X",
+      "price": "12.9",
+      "confidence": 0.85
+    },
+    {
+      "name": "Charge 10X Serv",
+      "price": "4.13",
+      "confidence": 0.89
+    },
+    {
+      "name": "Rounding Adj -",
+      "price": "0.01",
+      "confidence": 0.9
+    },
+    {
+      "name": "- Closed",
+      "price": "29.0",
+      "confidence": 0.75
+    },
+    {
+      "name": "CHANCE",
+      "price": "1.85",
+      "confidence": 0.49
+    }
+  ],
+  "ocr_quality": 0.73
+}

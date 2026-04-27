@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433538.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampol 7/4,Kawasan erindustrlan",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-12",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "58.2",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "18.19",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.67
+}

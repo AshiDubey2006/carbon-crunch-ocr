@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005268408.jpg",
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-02-14",
+    "confidence": 0.9,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Rounding RM",
+      "price": "189.8",
+      "confidence": 0.77
+    }
+  ],
+  "ocr_quality": 0.46
+}

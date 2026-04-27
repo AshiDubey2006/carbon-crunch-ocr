@@ -1,0 +1,66 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433533.jpg",
+  "store_name": {
+    "value": "PERNIAGAAN ZHENG HUI",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-09-03",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "332.3",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "0C GA iol",
+      "price": "170.0",
+      "confidence": 0.8
+    },
+    {
+      "name": "CC G1",
+      "price": "35.0",
+      "confidence": 0.86
+    },
+    {
+      "name": "0C Ga 18v",
+      "price": "7.5",
+      "confidence": 0.59
+    },
+    {
+      "name": "a1lt 0C",
+      "price": "5.5",
+      "confidence": 0.64
+    },
+    {
+      "name": "0C G tlol",
+      "price": "6.0",
+      "confidence": 0.6
+    },
+    {
+      "name": "0C Gnlko",
+      "price": "0.3",
+      "confidence": 0.64
+    },
+    {
+      "name": "0C Gnldo",
+      "price": "8.0",
+      "confidence": 0.57
+    },
+    {
+      "name": "OC GBibo",
+      "price": "12.0",
+      "confidence": 0.82
+    },
+    {
+      "name": "Rounding RM -",
+      "price": "0.01",
+      "confidence": 0.87
+    }
+  ],
+  "ocr_quality": 0.7
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442378.jpg",
+  "store_name": {
+    "value": "TQFOR SHOPPING WITH mYNEWS com)",
+    "confidence": 0.64,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "20.0",
+    "confidence": 0.49,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "1C D0 ZRL O OQ",
+      "price": "10.0",
+      "confidence": 0.45
+    },
+    {
+      "name": "// AM",
+      "price": "34.4",
+      "confidence": 0.91
+    }
+  ],
+  "ocr_quality": 0.59
+}

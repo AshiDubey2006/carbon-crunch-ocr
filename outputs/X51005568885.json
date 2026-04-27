@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568885.jpg",
+  "store_name": {
+    "value": "BANDAR PUTERL,",
+    "confidence": 0.57,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "3UB-TCTAL",
+      "price": "57.84",
+      "confidence": 0.41
+    },
+    {
+      "name": "Totbl GBTIE",
+      "price": "3.17",
+      "confidence": 0.55
+    },
+    {
+      "name": "8u8-TCTAL",
+      "price": "56.01",
+      "confidence": 0.64
+    },
+    {
+      "name": "ROUNDING ADJUBT",
+      "price": "0.01",
+      "confidence": 0.66
+    }
+  ],
+  "ocr_quality": 0.57
+}

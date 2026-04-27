@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568900.jpg",
+  "store_name": {
+    "value": "LOt 1851-A 1851-B JalAn KPB 6 &",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "9.9",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.7
+}

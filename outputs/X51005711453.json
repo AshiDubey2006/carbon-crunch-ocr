@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005711453.jpg",
+  "store_name": {
+    "value": "former Iy known as",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "3.5",
+    "confidence": 0.78,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.72
+}

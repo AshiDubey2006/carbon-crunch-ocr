@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719863.jpg",
+  "store_name": {
+    "value": "SEN LEE HEONG RESTAURANT",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-12-01",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "77.4",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ROUND ADJ RM",
+      "price": "0.02",
+      "confidence": 0.98
+    }
+  ],
+  "ocr_quality": 0.75
+}

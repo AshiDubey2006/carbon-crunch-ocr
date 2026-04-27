@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005705729.jpg",
+  "store_name": {
+    "value": "NO 31G,JALAN SEPADU C 26/C,",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2017-10-13",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "100.0",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR CRIMPING",
+      "price": "79.5",
+      "confidence": 0.94
+    }
+  ],
+  "ocr_quality": 0.84
+}

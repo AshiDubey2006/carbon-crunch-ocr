@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757201.jpg",
+  "store_name": {
+    "value": "JLN JEJAKA_ TAMAN  MAL?IRI",
+    "confidence": 0.69,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-28",
+    "confidence": 0.77,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "88.97",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "DISC bOX -",
+      "price": "0.89",
+      "confidence": 0.42
+    },
+    {
+      "name": "OISC HO",
+      "price": "0.25",
+      "confidence": 0.4
+    },
+    {
+      "name": "DISC 41X -",
+      "price": "7.74",
+      "confidence": 0.6
+    },
+    {
+      "name": "Item Count Char je Aml",
+      "price": "11.05",
+      "confidence": 0.64
+    },
+    {
+      "name": "SR 6X",
+      "price": "5.04",
+      "confidence": 0.89
+    },
+    {
+      "name": "SARYANI",
+      "price": "2351.38",
+      "confidence": 0.62
+    }
+  ],
+  "ocr_quality": 0.59
+}

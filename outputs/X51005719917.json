@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719917.jpg",
+  "store_name": {
+    "value": "DOMINO ' $ PIZZA",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.98,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "27.6",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.84
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005621482.jpg",
+  "store_name": {
+    "value": "No 57 Jalan SS 3/29,",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "// PM Date",
+      "price": "3.2",
+      "confidence": 0.78
+    },
+    {
+      "name": "SR ENERGIZER",
+      "price": "73.4",
+      "confidence": 0.64
+    }
+  ],
+  "ocr_quality": 0.8
+}

@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605295.jpg",
+  "store_name": {
+    "value": "ECOKSAVE CASH & CARRY (FC) 5/3 (930311-V)",
+    "confidence": 0.57,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "5.15",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "HR ES CHOICE SOFT",
+      "price": "4.2",
+      "confidence": 0.63
+    },
+    {
+      "name": "hr es ICE COCL Hi S",
+      "price": "0.95",
+      "confidence": 0.48
+    },
+    {
+      "name": "CHSH",
+      "price": "45.2",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.69
+}

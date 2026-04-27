@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745249.jpg",
+  "store_name": {
+    "value": "PUSA] BANDAR KELANA JAYA , JALAN SS6/54 ,",
+    "confidence": 0.47,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-27",
+    "confidence": 0.89,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "MY EDV Mea RMI",
+      "price": "1.9",
+      "confidence": 0.64
+    }
+  ],
+  "ocr_quality": 0.7
+}

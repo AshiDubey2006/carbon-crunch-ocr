@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361907.jpg",
+  "store_name": {
+    "value": "TED HENG ST ATIQNERV E BQOKS",
+    "confidence": 0.5,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-12-02",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "144.88",
+    "confidence": 0.64,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.8
+}

@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005677335.jpg",
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-24",
+    "confidence": 0.81,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "4.2",
+    "confidence": 0.95,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Qty Tolal",
+      "price": "74.2",
+      "confidence": 0.72
+    }
+  ],
+  "ocr_quality": 0.87
+}

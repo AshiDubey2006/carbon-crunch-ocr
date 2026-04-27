@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442386.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+    "confidence": 0.56,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "58.7",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "17.59",
+      "confidence": 0.78
+    }
+  ],
+  "ocr_quality": 0.67
+}

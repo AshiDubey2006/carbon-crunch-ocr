@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005806678.jpg",
+  "store_name": {
+    "value": "355 , Jalan Bandar Melavati _",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "80.0",
+    "confidence": 0.4,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "pCS SR",
+      "price": "305.8",
+      "confidence": 0.55
+    },
+    {
+      "name": "pcs Ulj SR",
+      "price": "13.9",
+      "confidence": 0.75
+    },
+    {
+      "name": "pcS",
+      "price": "197.0",
+      "confidence": 0.57
+    }
+  ],
+  "ocr_quality": 0.74
+}

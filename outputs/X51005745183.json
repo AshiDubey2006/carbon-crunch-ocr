@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745183.jpg",
+  "store_name": {
+    "value": "NO 3, JALAN TAMAN JASA 2;",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-02-22",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Date // AM",
+      "price": "7.41",
+      "confidence": 0.74
+    },
+    {
+      "name": "SR Kaea",
+      "price": "5.8",
+      "confidence": 0.57
+    },
+    {
+      "name": "Master Card",
+      "price": "63.8",
+      "confidence": 0.72
+    }
+  ],
+  "ocr_quality": 0.78
+}

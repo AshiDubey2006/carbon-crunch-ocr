@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005303661.jpg",
+  "store_name": {
+    "value": "28, JALAN ASTANA 1C,",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-12-20",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "87.0",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "RM UNT RM",
+      "price": "2.83",
+      "confidence": 0.76
+    }
+  ],
+  "ocr_quality": 0.8
+}

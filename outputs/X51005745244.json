@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005745244.jpg",
+  "store_name": {
+    "value": "DATARAN ClOMAC _ 4-(-06 _",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "1.9",
+    "confidence": 0.46,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.68
+}

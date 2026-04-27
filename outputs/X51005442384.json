@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442384.jpg",
+  "store_name": {
+    "value": "Rozv |",
+    "confidence": 0.52,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.43,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "58.2",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "18.26",
+      "confidence": 0.33
+    }
+  ],
+  "ocr_quality": 0.68
+}

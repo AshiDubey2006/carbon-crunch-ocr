@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005722668.jpg",
+  "store_name": {
+    "value": "MY HAPPY PHARMACY PLT",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "19.34",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "items": [],
+  "ocr_quality": 0.77
+}

@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663272.jpg",
+  "store_name": {
+    "value": "425, JALAN Pahang,",
+    "confidence": 0.56,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2017-04-12",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "42.4",
+    "confidence": 0.96,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "/ SRE6Z",
+      "price": "2.4",
+      "confidence": 0.61
+    }
+  ],
+  "ocr_quality": 0.81
+}

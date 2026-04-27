@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719912.jpg",
+  "store_name": {
+    "value": "dian",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-04-03",
+    "confidence": 0.72,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "12.0",
+    "confidence": 0.37,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "GDN MC HU ENC Rom S",
+      "price": "5.9",
+      "confidence": 0.51
+    },
+    {
+      "name": "P3 KIP HW",
+      "price": "11.6",
+      "confidence": 0.67
+    }
+  ],
+  "ocr_quality": 0.6
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005433553.jpg",
+  "store_name": {
+    "value": "city YHM keon Tebrau",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "13.1",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "FG-40jo19",
+      "price": "1.5",
+      "confidence": 0.77
+    },
+    {
+      "name": "FG-HOotoC SR",
+      "price": "2.8",
+      "confidence": 0.56
+    }
+  ],
+  "ocr_quality": 0.68
+}

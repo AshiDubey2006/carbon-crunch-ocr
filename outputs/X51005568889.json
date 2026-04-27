@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005568889.jpg",
+  "store_name": {
+    "value": "HON KWA HARDWARE TRADING",
+    "confidence": 0.94,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "CB / AM",
+      "price": "9.35",
+      "confidence": 0.68
+    },
+    {
+      "name": "SR i ALUMNIUM ROD",
+      "price": "5.9",
+      "confidence": 0.4
+    },
+    {
+      "name": "Type Tolal",
+      "price": "19.0",
+      "confidence": 0.83
+    },
+    {
+      "name": "SR SR",
+      "price": "1.11",
+      "confidence": 0.91
+    }
+  ],
+  "ocr_quality": 0.76
+}

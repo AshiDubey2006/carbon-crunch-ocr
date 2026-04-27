@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719823.jpg",
+  "store_name": {
+    "value": "PHARHACY AA",
+    "confidence": 0.86,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2000-12-09",
+    "confidence": 0.71,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "44.94",
+    "confidence": 0.74,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SALESPERSON TIME C2",
+      "price": "12.09",
+      "confidence": 0.61
+    }
+  ],
+  "ocr_quality": 0.71
+}

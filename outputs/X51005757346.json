@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757346.jpg",
+  "store_name": {
+    "value": "43300   SERI KEMBANGAN _ SELANGOR",
+    "confidence": 0.73,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 0.63,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "1.48",
+    "confidence": 0.68,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.73
+}

@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005337867.jpg",
+  "store_name": {
+    "value": "st Jzr -",
+    "confidence": 0.57,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 0.85,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "30.25",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ST30",
+      "price": "13.87",
+      "confidence": 0.93
+    },
+    {
+      "name": "HS4",
+      "price": "12.07",
+      "confidence": 0.81
+    },
+    {
+      "name": "1O Srv Chg",
+      "price": "2.59",
+      "confidence": 0.59
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01",
+      "confidence": 0.91
+    },
+    {
+      "name": "STORED Mar PM-_",
+      "price": "1.5",
+      "confidence": 0.69
+    }
+  ],
+  "ocr_quality": 0.77
+}

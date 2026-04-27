@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005441402.jpg",
+  "store_name": {
+    "value": "THREE STOOGES",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-03-03",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "174.9",
+    "confidence": 0.8,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "SVC SERVICE CHARGE",
+      "price": "15.0",
+      "confidence": 0.93
+    }
+  ],
+  "ocr_quality": 0.8
+}

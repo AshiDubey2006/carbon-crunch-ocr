@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005605333.jpg",
+  "store_name": {
+    "value": "POPULAR Bopk;",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "31.45",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Jpc",
+      "price": "41.07",
+      "confidence": 0.72
+    },
+    {
+      "name": "Stat-Great Saving",
+      "price": "9.6",
+      "confidence": 0.91
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02",
+      "confidence": 0.98
+    }
+  ],
+  "ocr_quality": 0.72
+}

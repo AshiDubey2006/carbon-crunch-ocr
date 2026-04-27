@@ -1,0 +1,51 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005337877.jpg",
+  "store_name": {
+    "value": "SECTION 17,",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.97,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "53.0",
+    "confidence": 0.53,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Date // PM",
+      "price": "6.41",
+      "confidence": 0.87
+    },
+    {
+      "name": "KO NABE INANIWA SR",
+      "price": "24.0",
+      "confidence": 0.87
+    },
+    {
+      "name": "GREEN TEA SR",
+      "price": "1.0",
+      "confidence": 0.98
+    },
+    {
+      "name": "GYOZA Spcs SR",
+      "price": "15.0",
+      "confidence": 0.92
+    },
+    {
+      "name": "GARLIC CHAHAN SR T",
+      "price": "6.0",
+      "confidence": 0.93
+    },
+    {
+      "name": "ervice Chg",
+      "price": "4.0",
+      "confidence": 0.8
+    }
+  ],
+  "ocr_quality": 0.83
+}

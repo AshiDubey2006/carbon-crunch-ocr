@@ -1,0 +1,61 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/10.jpg",
+  "store_name": {
+    "value": "SPAR",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "15.99",
+    "confidence": 0.91,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "A LAZENBY WORCESTER SAUCE 12SML",
+      "price": "17.99",
+      "confidence": 0.65
+    },
+    {
+      "name": "8OGR MiLKY BAR CHOC",
+      "price": "16.99",
+      "confidence": 0.57
+    },
+    {
+      "name": "A SOOGR SMOKED VIENNAS",
+      "price": "33.99",
+      "confidence": 0.69
+    },
+    {
+      "name": "IKG MEDITERRANEAN MIX",
+      "price": "44.99",
+      "confidence": 0.81
+    },
+    {
+      "name": "375ML SPAR COOKING OiL",
+      "price": "14.99",
+      "confidence": 0.77
+    },
+    {
+      "name": "F/L EnGLiSH CUCUMB",
+      "price": "12.99",
+      "confidence": 0.55
+    },
+    {
+      "name": "TUB GRAPES MIXED TUB",
+      "price": "24.99",
+      "confidence": 0.83
+    },
+    {
+      "name": "A ' CARRIER BAG 24L",
+      "price": "0.75",
+      "confidence": 0.67
+    }
+  ],
+  "ocr_quality": 0.75
+}

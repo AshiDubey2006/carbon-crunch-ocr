@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005757304.jpg",
+  "store_name": {
+    "value": "COMPANY NO(814198-X)",
+    "confidence": 0.64,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.7,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "35.4",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "SR X",
+      "price": "5.9",
+      "confidence": 0.74
+    },
+    {
+      "name": "X SR",
+      "price": "17.7",
+      "confidence": 0.94
+    },
+    {
+      "name": "CHHNGE",
+      "price": "14.6",
+      "confidence": 0.75
+    }
+  ],
+  "ocr_quality": 0.73
+}

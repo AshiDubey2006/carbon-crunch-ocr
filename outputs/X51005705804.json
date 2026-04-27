@@ -1,0 +1,46 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005705804.jpg",
+  "store_name": {
+    "value": "ASO",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "100.0",
+    "confidence": 0.54,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Time",
+      "price": "1.29",
+      "confidence": 0.74
+    },
+    {
+      "name": "RSP",
+      "price": "47.06",
+      "confidence": 0.99
+    },
+    {
+      "name": "Itemi",
+      "price": "44.4",
+      "confidence": 0.87
+    },
+    {
+      "name": "SR FUJI",
+      "price": "51.94",
+      "confidence": 0.86
+    },
+    {
+      "name": "SR ANLY FLOATLESS",
+      "price": "799.0",
+      "confidence": 0.74
+    }
+  ],
+  "ocr_quality": 0.82
+}

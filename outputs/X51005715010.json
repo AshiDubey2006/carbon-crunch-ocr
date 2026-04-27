@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005715010.jpg",
+  "store_name": {
+    "value": "watsons",
+    "confidence": 0.79,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "45.0",
+    "confidence": 0.46,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "WS Cui SCISSQRS",
+      "price": "18.0",
+      "confidence": 0.61
+    },
+    {
+      "name": "QvS TEMPO TWEEZER",
+      "price": "17.9",
+      "confidence": 0.74
+    },
+    {
+      "name": "PWP LESS MAR",
+      "price": "22.37",
+      "confidence": 0.35
+    }
+  ],
+  "ocr_quality": 0.67
+}

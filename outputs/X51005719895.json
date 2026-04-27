@@ -1,0 +1,41 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719895.jpg",
+  "store_name": {
+    "value": "33 JLN BANCAU 1,KEPONG BARU;",
+    "confidence": 0.53,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-08",
+    "confidence": 0.87,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "34.8",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "DATE // AM",
+      "price": "42.41",
+      "confidence": 0.77
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01",
+      "confidence": 0.82
+    },
+    {
+      "name": "MASTER",
+      "price": "34.0",
+      "confidence": 0.8
+    },
+    {
+      "name": "DZ 0D",
+      "price": "25.8",
+      "confidence": 0.47
+    }
+  ],
+  "ocr_quality": 0.65
+}

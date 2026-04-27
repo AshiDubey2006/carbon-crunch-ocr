@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/11.jpg",
+  "store_name": {
+    "value": "WHZLE",
+    "confidence": 0.61,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "California Harvest",
+      "price": "2.69",
+      "confidence": 0.91
+    },
+    {
+      "name": "WT PLUNS BLack cv",
+      "price": "2.15",
+      "confidence": 0.51
+    },
+    {
+      "name": "GALA APPLES 0g W",
+      "price": "3.26",
+      "confidence": 0.74
+    }
+  ],
+  "ocr_quality": 0.7
+}

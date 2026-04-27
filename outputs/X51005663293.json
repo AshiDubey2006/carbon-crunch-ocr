@@ -1,0 +1,36 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005663293.jpg",
+  "store_name": {
+    "value": "SWEET   FOREST   CAFE",
+    "confidence": 0.52,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "30.0",
+    "confidence": 0.67,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "X SR",
+      "price": "3.06",
+      "confidence": 0.84
+    },
+    {
+      "name": "X SR",
+      "price": "4.9",
+      "confidence": 0.81
+    },
+    {
+      "name": "SR /",
+      "price": "1.72",
+      "confidence": 0.83
+    }
+  ],
+  "ocr_quality": 0.79
+}

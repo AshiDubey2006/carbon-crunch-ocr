@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361923.jpg",
+  "store_name": {
+    "value": "2 10, Jalan jok Permai",
+    "confidence": 0.66,
+    "low_confidence": true
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "4.2",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.58
+}

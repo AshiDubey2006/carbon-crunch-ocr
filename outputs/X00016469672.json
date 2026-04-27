@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X00016469672.jpg",
+  "store_name": {
+    "value": "chay yee tan",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2019-11-01",
+    "confidence": 0.82,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "327.0",
+    "confidence": 0.64,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "/ JU",
+      "price": "17.0",
+      "confidence": 0.6
+    }
+  ],
+  "ocr_quality": 0.8
+}

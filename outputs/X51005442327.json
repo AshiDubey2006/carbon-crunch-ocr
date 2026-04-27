@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005442327.jpg",
+  "store_name": {
+    "value": "12, Jalan Tampoj 7/4,Kawasan arindustman",
+    "confidence": 0.58,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.99,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "53.6",
+    "confidence": 0.55,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "Mar",
+      "price": "18.25",
+      "confidence": 0.89
+    }
+  ],
+  "ocr_quality": 0.65
+}

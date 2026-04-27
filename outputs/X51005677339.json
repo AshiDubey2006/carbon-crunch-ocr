@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005677339.jpg",
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2000-11-14",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "62.5",
+    "confidence": 0.62,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "USER Castier Time",
+      "price": "11.14",
+      "confidence": 0.74
+    }
+  ],
+  "ocr_quality": 0.66
+}

@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X00016469612.jpg",
+  "store_name": {
+    "value": "tan woon yann",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": "2018-12-25",
+    "confidence": 0.88,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "9.0",
+    "confidence": 0.41,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "// PM Dale",
+      "price": "13.39",
+      "confidence": 0.78
+    },
+    {
+      "name": "Rour 'ing Acljustment",
+      "price": "0.9",
+      "confidence": 0.44
+    }
+  ],
+  "ocr_quality": 0.54
+}

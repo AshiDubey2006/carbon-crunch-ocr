@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005361897.jpg",
+  "store_name": {
+    "value": "no. 53,JALAN BESAR, 45600 BATANG BERJUNTAI",
+    "confidence": 0.59,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-01-17",
+    "confidence": 0.93,
+    "low_confidence": false
+  },
+  "total_amount": {
+    "value": "27.55",
+    "confidence": 0.83,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "ROlNNDING",
+      "price": "0.01",
+      "confidence": 0.71
+    }
+  ],
+  "ocr_quality": 0.81
+}

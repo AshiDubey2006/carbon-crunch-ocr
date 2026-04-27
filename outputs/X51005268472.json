@@ -1,0 +1,31 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005268472.jpg",
+  "store_name": {
+    "value": "ASIA MART",
+    "confidence": 1.0,
+    "low_confidence": false
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": "31.03",
+    "confidence": 0.84,
+    "low_confidence": false
+  },
+  "items": [
+    {
+      "name": "Zrl /",
+      "price": "3.55",
+      "confidence": 0.74
+    },
+    {
+      "name": "ZRL",
+      "price": "1.65",
+      "confidence": 0.88
+    }
+  ],
+  "ocr_quality": 0.78
+}

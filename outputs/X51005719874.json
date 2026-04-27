@@ -1,0 +1,26 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/X51005719874.jpg",
+  "store_name": {
+    "value": "Lot   NO :G1.1164,GROUND  FLOOR",
+    "confidence": 0.51,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2018-02-22",
+    "confidence": 0.58,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [
+    {
+      "name": "-// Nyo Tun -",
+      "price": "13.34",
+      "confidence": 0.48
+    }
+  ],
+  "ocr_quality": 0.66
+}

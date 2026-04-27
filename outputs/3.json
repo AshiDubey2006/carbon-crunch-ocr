@@ -1,0 +1,20 @@
+{
+  "image": "/content/drive/MyDrive/AI-OCR dataset/3.jpg",
+  "store_name": {
+    "value": "~hoctz See",
+    "confidence": 0.58,
+    "low_confidence": true
+  },
+  "date": {
+    "value": "2019-04-27",
+    "confidence": 0.65,
+    "low_confidence": true
+  },
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "low_confidence": true
+  },
+  "items": [],
+  "ocr_quality": 0.44
+}
